@@ -5,7 +5,7 @@ layout: page
 <div style="text-align: center;">
        <img
        style="width: 100%;
-              max-width: 400px;
+              max-width: 300px;
               height: auto;
               border-radius: 50%;"
        src="resources/profile_wink.jpeg"
@@ -14,6 +14,11 @@ layout: page
        <h1 style="margin-top: 1rem; font-weight: 900;" >산화아연</h1>
        <h2 style="font-weight: 700;">Zinc Oxide</h2>
        <h2 style="font-weight: 700;">ジンク・オクサイド</h2>     
+</div>
+
+<div class="d-grid gap-2">
+  <button class="btn btn-lg btn-youtube" src="https://youtube.com/ZincOxide" type="button">Youtube Channel</button>
+  <button class="btn btn-lg btn-twitch" src="https://twitch.tv/v_zincoxide" type="button">Twitch Page</button>
 </div>
 
 # 새소식
