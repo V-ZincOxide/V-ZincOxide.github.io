@@ -11,10 +11,15 @@ $web-font-path: "https://fonts.googleapis.com/css?family=Montserrat|M+PLUS+1p" !
 @import url($web-font-path);
 
 
-// Body =======================================================================
+// Body ========================================================================
 body {
   background: url("/resources/background.jpeg") no-repeat center;
   background-size: cover;
+}
+
+// a ===========================================================================
+a {
+  color: $secondary
 }
 
 // Navbar ======================================================================
