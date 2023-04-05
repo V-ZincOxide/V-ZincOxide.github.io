@@ -7,8 +7,8 @@ layout: page
        style="width: 100%;
               max-width: 500px;
               height: auto;
-              border-radius: 50%"
-       src="images/profile_wink.jpeg"
+              border-radius: 50%;"
+       src="assets/profile_wink.jpeg"
        alt="profile picture">
        </img>
        <h1>산화아연</h1>
