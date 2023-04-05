@@ -10,7 +10,7 @@ layout: page
               border-radius: 50%;"
        src="assets/profile_wink.jpeg"
        alt="profile picture">
-       </img>
+       <br>
        <h1>산화아연</h1>
        <h2>Zinc Oxide</h2>
        <h2>ジンク・オクサイド</h2>     
