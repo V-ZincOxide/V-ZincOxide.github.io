@@ -7,7 +7,7 @@ layout: page
            <circle cx="160" cy="160" r="150" stroke="#B6EF13" fill="#fff" stroke-width="10px"></circle>
        </svg>
        <img
-       class="profile-picture-character""
+       class="profile-picture-character"
        style="
               width: 300px;
               height: 300px;
@@ -20,6 +20,8 @@ layout: page
        <svg class="profile-picture-border" height="160px" width="320px" style="top:160px; left:0px">
            <circle cx="160" cy="0" r="150" stroke="#B6EF13" fill-opacity:"0%" stroke-width="10px"></circle>
        </svg>
+</div>
+<div style="text-align: center;">
        <br>
        <h1 style="margin-top: 1rem; font-weight: 900;" >산화아연</h1>
        <h2 style="font-weight: 700;">Zinc Oxide</h2>
