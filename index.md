@@ -32,7 +32,7 @@ layout: page
 
 
 # 프로필
-![산화아연의 앞, 옆, 뒤 삼면도](resources/3view-small.jpeg)
+![산화아연의 앞, 옆, 뒤 삼면도](resources/3view.png)
 * 이름: 산화아연
 * 키: 231cm
 * 몸무게: 191kg
