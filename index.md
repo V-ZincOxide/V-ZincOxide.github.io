@@ -2,9 +2,9 @@
 layout: page
 ---
 
-<div class="profile-picture-parent" style="text-align: center;">
+<div class="profile-picture-parent" style="margin: 30px calc(50% - 150px);">
        <svg class="profile-picture-background" height="320px" width="320px">
-           <circle cx="160" cy="160" r="150" stroke="#B6EF13" fill="#fff" stroke-width="10px"></circle>
+              <circle cx="160" cy="160" r="150" stroke="#B6EF13" fill="#fff" stroke-width="10px"></circle>
        </svg>
        <img
        class="profile-picture-character"
@@ -15,10 +15,10 @@ layout: page
        src="resources/profile_wink.png"
        alt="profile picture">
        <svg class="profile-picture-border" height="160px" width="160px" style="top:0px; left:160px;">
-           <circle cx="0" cy="160" r="150" stroke="#B6EF13" fill-opacity:"0%" stroke-width="10px"></circle>
+              <circle cx="0" cy="160" r="150" stroke="#B6EF13" fill="none" stroke-width="10px"></circle>
        </svg>
        <svg class="profile-picture-border" height="160px" width="320px" style="top:160px; left:0px">
-           <circle cx="160" cy="0" r="150" stroke="#B6EF13" fill-opacity:"0%" stroke-width="10px"></circle>
+              <circle cx="160" cy="0" r="150" stroke="#B6EF13" fill="none" stroke-width="10px"></circle>
        </svg>
 </div>
 <div style="text-align: center;">
