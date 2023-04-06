@@ -89,7 +89,10 @@ $theme-colors: map-merge(
     "warning":    $warning,
     "danger":     $danger,
     "light":      $light,
-    "dark":       $dark
+    "dark":       $dark,
+    "twitter-blue":   $twitter-blue,
+    "youtube-red":    $youtube-red,
+    "twitch-purple":  $twitch-purple
   ),
   $theme-colors
 );
