@@ -3,7 +3,7 @@ layout: page
 ---
 
 <div class="profile-picture-parent" style="margin: 5px calc(50% - 130px);">
-       <svg class="profile-picture-background" height="2620px" width="260px">
+       <svg class="profile-picture-background" height="260px" width="260px">
               <circle cx="130" cy="130" r="120" stroke="#B6EF13" fill="#fff" stroke-width="15px"></circle>
        </svg>
        <img
