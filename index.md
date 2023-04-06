@@ -40,4 +40,34 @@ layout: page
 * 키 Height 身長: 231cm(7'7")
 * 몸무게 Weight 体重: 191kg(421lbs)
 
+## Illustrator
+#### GomTang
+<div style="text-align: center;">
+       <img src="/resources/GomTang.png" style="height:150px; width:150px">
+       <a class="btn btn-link btn-twitter-blue" href="https://twitter.com/GomTang_P" type="button">
+       <img src="resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitter</a>
+</div>
+
+## Rigger
+#### 2395
+<div style="text-align: center;">
+       <img src="/resources/2395.png" style="height:150px; width:150px">
+       <a class="btn btn-link btn-twitter-blue" href="https://twitter.com/adpn2395" type="button">
+       <img src="resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitter</a>
+</div>
+
+## Supporters
+<div style="text-align: center;">
+Scorge
+Starflo
+코카스
+타르토
+dlunch
+김토끼
+HippoFatale
+Skyrhim
+나토나토
+Firefox
+</div>
+
 <a class="twitter-timeline" data-height="500" data-dnt="true" href="https://twitter.com/V_ZincOxide?ref_src=twsrc%5Etfw">Tweets by V_ZincOxide</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
