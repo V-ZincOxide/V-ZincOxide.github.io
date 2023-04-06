@@ -43,6 +43,9 @@ $yellow:  #ffc107 !default;
 $green:   #28a745 !default;
 $teal:    #20c997 !default;
 $cyan:    #17a2b8 !default;
+$twitter-blue:  #019EF7 !default;
+$youtube-red:   #FF0000 !default;
+$twitch-purple: #6441A5 !default;
 
 $colors: () !default;
 $colors: map-merge(
@@ -59,7 +62,10 @@ $colors: map-merge(
     "cyan":       $cyan,
     "white":      $white,
     "gray":       $gray-600,
-    "gray-dark":  $gray-800
+    "gray-dark":  $gray-800,
+    "twitter-blue":   $twitter-blue,
+    "youtube-red":    $youtube-red,
+    "twitch-purple":  $twitch-purle
   ),
   $colors
 );
