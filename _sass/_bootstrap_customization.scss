@@ -389,7 +389,7 @@ legend {
   animation-duration: 1s;
   animation-delay: 1s;
   animation-fill-mode: forwards;
-  animation-timing-function: cubic-bezier(0.545, 0.140, 0.540, 1.550);
+  animation-timing-function: ease-in;
 }
 
 .profile-picture-border{
