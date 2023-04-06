@@ -46,7 +46,7 @@ a {
 @media (min-width: 576px){ // Rule apply only on very first breakpoint 576px. Had to hard-code the px size.
   .py-5 {
     // padding-top: calc(30px + 4.625rem) !important;
-    padding-top: 3rem
+    padding-top: 3rem;
     padding-bottom: 3rem
     // Additional 3rem padding
   }
