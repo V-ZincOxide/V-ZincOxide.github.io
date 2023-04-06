@@ -18,6 +18,7 @@ layout: page
 
 <a class="btn btn-link btn-lg btn-block btn-youtube-red" href="https://youtube.com/ZincOxide" type="button">YouTube</a>
 <a class="btn btn-link btn-lg btn-block btn-twitch-purple" href="https://twitch.tv/v_zincoxide" type="button">Twitch</a>
+<a class="btn btn-link btn-lg btn-block btn-twitter-blue" href="https://twitter.com/V_ZincOxide" type="button">Twitter</a>
 
 # 새소식
 ## 2023.04.04
