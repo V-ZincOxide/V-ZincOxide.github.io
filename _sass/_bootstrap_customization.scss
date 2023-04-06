@@ -384,10 +384,10 @@ legend {
   border-radius: 0% 50% 50% 50%;
   z-index: 2;
   animation-name: alpha-appear;
-  animation-duration: 0.5s;
+  animation-duration: 1s;
   animation-delay: 1s;
   animation-fill-mode: forwards;
-  animation-timing-function: cubic-bezier(0.545, 0.140, 0.540, 1.550);
+  animation-timing-function: cubic-bezier(0.545, 0.140, 0.540, 1.330);
 }
 
 .profile-picture-border{
@@ -398,6 +398,6 @@ legend {
 }
 
 @keyframes alpha-appear {
-  from  {left:30px; top:30px; opacity:0;}
+  from  {left:20px; top:20px; opacity:0;}
   to    {left: 3px; top:3px; opacity:1;}
 }
