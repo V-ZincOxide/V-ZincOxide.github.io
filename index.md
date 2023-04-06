@@ -17,8 +17,8 @@ layout: page
 </div>
 
 <div class="d-grid gap-2">
-  <button class="btn btn-lg btn-youtube" src="https://youtube.com/ZincOxide" type="button">Youtube Channel</button>
-  <button class="btn btn-lg btn-twitch" src="https://twitch.tv/v_zincoxide" type="button">Twitch Page</button>
+  <button class="btn btn-link btn-lg btn-youtube-red" src="https://youtube.com/ZincOxide" type="button">Youtube Channel</button>
+  <button class="btn btn-link btn-lg btn-twitch-purple" src="https://twitch.tv/v_zincoxide" type="button">Twitch Page</button>
 </div>
 
 # 새소식
