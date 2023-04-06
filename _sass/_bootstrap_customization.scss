@@ -338,3 +338,8 @@ legend {
     color: inherit;
   }
 }
+
+// make col-sm.text-right grow faster in the footer
+.col-sm.text-right{
+  flex-grow: 2;
+}
