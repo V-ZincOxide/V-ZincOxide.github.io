@@ -363,3 +363,30 @@ legend {
 .col-sm.text-right{
   flex-grow: 2;
 }
+
+// Profile picture =============================================================
+.profile-picture-parent{
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.profile-picture-background{
+  position:relative;
+  top: 0;
+  left: 0;
+  z-index: 1
+}
+.profile-picture-character{
+  position: absolute;
+  top: 10;
+  left: 10;
+  border-radius: 50%;
+  z-index: 2
+}
+
+.profile-picture-border{
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 3
+}

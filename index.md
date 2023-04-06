@@ -3,21 +3,23 @@ layout: page
 ---
 
 <div class="profile-picture-parent" style="text-align: center;">
-       <svg height="320px" width="320px" style="position:relative; top:0; left:0;">
+       <svg class="profile-picture-background" height="320px" width="320px">
            <circle cx="160" cy="160" r="150" stroke="#B6EF13" fill="#fff" stroke-width="10px"></circle>
        </svg>
        <img
+       class="profile-picture-character""
        style="
-              position: absolute;
-              top: 0px;
-              left: 0px;
-              width: 100%;
-              max-width: 300px;
-              height: auto;
-              border-radius: 50%;
-              border: 10px solid #b6ef13;"
-       src="resources/profile_wink.jpeg"
+              width: 300px;
+              height: 300px;
+              border-radius: 50%;"
+       src="resources/profile_wink.png"
        alt="profile picture">
+       <svg class="profile-picture-border" height="160px" width="160px" style="top:0px; left:160px;">
+           <circle cx="0" cy="160" r="150" stroke="#B6EF13" fill-opacity:"0%" stroke-width="10px"></circle>
+       </svg>
+       <svg class="profile-picture-border" height="160px" width="320px" style="top:160px; left:0px">
+           <circle cx="160" cy="0" r="150" stroke="#B6EF13" fill-opacity:"0%" stroke-width="10px"></circle>
+       </svg>
        <br>
        <h1 style="margin-top: 1rem; font-weight: 900;" >산화아연</h1>
        <h2 style="font-weight: 700;">Zinc Oxide</h2>
