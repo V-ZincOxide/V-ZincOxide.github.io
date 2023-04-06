@@ -4,21 +4,20 @@ layout: page
 
 <div class="profile-picture-parent" style="margin: 30px calc(50% - 150px);">
        <svg class="profile-picture-background" height="320px" width="320px">
-              <circle cx="160" cy="160" r="150" stroke="#B6EF13" fill="#fff" stroke-width="10px"></circle>
+              <circle cx="160" cy="160" r="150" stroke="#B6EF13" fill="#fff" stroke-width="20px"></circle>
        </svg>
        <img
        class="profile-picture-character"
        style="
               width: 300px;
-              height: 300px;
-              border-radius: 50%;"
+              height: 300px;"
        src="resources/profile_wink.png"
        alt="profile picture">
-       <svg class="profile-picture-border" height="160px" width="160px" style="top:0px; left:160px;">
-              <circle cx="0" cy="160" r="150" stroke="#B6EF13" fill="none" stroke-width="10px"></circle>
+       <svg class="profile-picture-border" height="160px" width="60px" style="top:0px; left:260px;">
+              <circle cx="-100" cy="160" r="150" stroke="#B6EF13" fill="none" stroke-width="20px"></circle>
        </svg>
        <svg class="profile-picture-border" height="160px" width="320px" style="top:160px; left:0px">
-              <circle cx="160" cy="0" r="150" stroke="#B6EF13" fill="none" stroke-width="10px"></circle>
+              <circle cx="160" cy="0" r="150" stroke="#B6EF13" fill="none" stroke-width="20px"></circle>
        </svg>
 </div>
 <div style="text-align: center;">
