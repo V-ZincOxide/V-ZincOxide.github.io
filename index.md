@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<div class="profile-picture-parent" style="margin: 30px calc(50% - 150px);">
+<div class="profile-picture-parent" style="margin: 5px calc(50% - 150px);">
        <svg class="profile-picture-background" height="320px" width="320px">
               <circle cx="160" cy="160" r="150" stroke="#B6EF13" fill="#fff" stroke-width="20px"></circle>
        </svg>
@@ -21,7 +21,6 @@ layout: page
        </svg>
 </div>
 <div style="text-align: center;">
-       <br>
        <h1 style="margin-top: 1rem; font-weight: 900;" >산화아연</h1>
        <h2 style="font-weight: 700;">Zinc Oxide</h2>
        <h2 style="font-weight: 700;">ジンク・オクサイド</h2>     

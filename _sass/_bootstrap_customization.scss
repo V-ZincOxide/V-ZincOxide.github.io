@@ -374,7 +374,7 @@ legend {
   position:relative;
   top: 0;
   left: 0;
-  z-index: 1
+  z-index: -3;
 }
 .profile-picture-character{
   position: absolute;
@@ -382,19 +382,19 @@ legend {
   left: 30px;
   opacity: 0;
   border-radius: 0% 50% 50% 50%;
-  z-index: 2;
+  z-index: -2;
   animation-name: alpha-appear;
   animation-duration: 1s;
   animation-delay: 1s;
   animation-fill-mode: forwards;
-  animation-timing-function: cubic-bezier(0.545, 0.140, 0.540, 1.330);
+  animation-timing-function: ease-in;
 }
 
 .profile-picture-border{
   position: absolute;
   top: 0;
   left: 0;
-  z-index: 3
+  z-index: -1;
 }
 
 @keyframes alpha-appear {
