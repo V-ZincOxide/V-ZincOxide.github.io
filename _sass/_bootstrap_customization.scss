@@ -26,6 +26,28 @@ a {
 
 .navbar {
   font-family: $headings-font-family;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background: white;
+  height: 2.875rem
+}
+
+// py-5 borders ================================================================
+.py-5 {
+  padding-top: calc(30px + 1.625rem) !important;
+  // 30px: icon height & font-size 1.25rem , icon padding .3125rem *2, header padding 0.5rem * 2 
+  padding-bottom: 0px;
+}
+
+@use 'variables' as v;
+
+@media (min-width: list.nth(v.$grid-breakpoints, 2)){ // Rule apply only on very first breakpoint(sm: 576px)
+  .py-5 {
+    padding-top: calc(30px + 4.625rem) !important;
+    padding-bottom: 3rem
+    // Additional 3rem padding
+  }
 }
 
 .bg-dark {
