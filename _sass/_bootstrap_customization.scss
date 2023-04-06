@@ -387,7 +387,7 @@ legend {
   animation-duration: 1s;
   animation-delay: 1s;
   animation-fill-mode: forwards;
-  animation-timing-function: ease-in;
+  animation-timing-function: cubic-bezier(0.545, 0.140, 0.540, 1.550);
 }
 
 .profile-picture-border{
