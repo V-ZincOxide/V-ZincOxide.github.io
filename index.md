@@ -17,11 +17,11 @@ layout: page
 </div>
 
 <a class="btn btn-link btn-lg btn-block btn-youtube-red" href="https://youtube.com/ZincOxide" type="button">
-       <img src="/resources/yt_logo_mono_dark.svg" style="max-height:1em"></a>
+       <img src="/resources/youtube_logo_white.svg" style="max-height:1.4em; padding-right 0.5em;">YouTube</a>
 <a class="btn btn-link btn-lg btn-block btn-twitch-purple" href="https://twitch.tv/v_zincoxide" type="button">
-       <img src="/resources/TwitchGlitchWhite.svg" style="max-height:1em">Twitch</a>
+       <img src="/resources/TwitchGlitchWhite.svg" style="max-height:1.4em; padding-right 0.5em;">Twitch</a>
 <a class="btn btn-link btn-lg btn-block btn-twitter-blue" href="https://twitter.com/V_ZincOxide" type="button">
-       <img src="resources/twitter_logo_white.svg" style="max-height:1em">Twitter</a>
+       <img src="resources/twitter_logo_white.svg" style="max-height:1.4em; padding-right 0.5em;">Twitter</a>
 
 # 새소식
 ## 2023.04.04
