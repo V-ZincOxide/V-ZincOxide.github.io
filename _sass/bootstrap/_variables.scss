@@ -43,9 +43,10 @@ $yellow:  #ffc107 !default;
 $green:   #28a745 !default;
 $teal:    #20c997 !default;
 $cyan:    #17a2b8 !default;
-$twitter-blue:  #019EF7 !default;
-$youtube-red:   #FF0000 !default;
-$twitch-purple: #6441A5 !default;
+$twitter-blue:    #019EF7 !default;
+$youtube-red:     #FF0000 !default;
+$twitch-purple:   #6441A5 !default;
+$marshmallow-pink:#F3969A !default;
 
 $colors: () !default;
 $colors: map-merge(
@@ -63,9 +64,10 @@ $colors: map-merge(
     "white":      $white,
     "gray":       $gray-600,
     "gray-dark":  $gray-800,
-    "twitter-blue":   $twitter-blue,
-    "youtube-red":    $youtube-red,
-    "twitch-purple":  $twitch-purple
+    "twitter-blue":     $twitter-blue,
+    "youtube-red":      $youtube-red,
+    "twitch-purple":    $twitch-purple,
+    "marshmallow-pink": $marshmallow-pink
   ),
   $colors
 );
@@ -90,9 +92,10 @@ $theme-colors: map-merge(
     "danger":     $danger,
     "light":      $light,
     "dark":       $dark,
-    "twitter-blue":   $twitter-blue,
-    "youtube-red":    $youtube-red,
-    "twitch-purple":  $twitch-purple
+    "twitter-blue":     $twitter-blue,
+    "youtube-red":      $youtube-red,
+    "twitch-purple":    $twitch-purple,
+    "marshmallow-pink": $marshmallow-pink
   ),
   $theme-colors
 );

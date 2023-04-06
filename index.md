@@ -32,19 +32,12 @@ layout: page
        <img src="/resources/TwitchGlitchWhite.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitch</a>
 <a class="btn btn-link btn-lg btn-block btn-twitter-blue" href="https://twitter.com/V_ZincOxide" type="button">
        <img src="resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitter</a>
-
-# News
-## 2023.04.04
-스튜디오 이전 중 예상치 못한 문제가 여럿 발생하여, 원래 예고되었던 방송 복귀일을 지키지 못하게 되었습니다.
-사태가 진정되고 난 후, 복귀일자를 공지드리겠습니다.
-
+<a class="btn btn-link btn-lg btn-block btn-marshmallow-pink" href="https://marshmallow-qa.com/v_zincoxide" type="button">
+       <img src="resources/marshmallow-logo.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">マシュマロ</a>
 
 # Profile
 ![산화아연의 앞, 옆, 뒤 삼면도](resources/3view.png)
-* 이름: 산화아연
-* 키: 231cm
-* 몸무게: 191kg
+* 키 Height 身長: 231cm(7'7")
+* 몸무게 Weight 体重: 191kg(421lbs)
 
 <a class="twitter-timeline" data-height="500" data-dnt="true" href="https://twitter.com/V_ZincOxide?ref_src=twsrc%5Etfw">Tweets by V_ZincOxide</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-`Debut: 2022.07.11`
