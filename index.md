@@ -2,28 +2,28 @@
 layout: page
 ---
 
-<div class="profile-picture-parent" style="margin: 5px calc(50% - 150px);">
-       <svg class="profile-picture-background" height="320px" width="320px">
-              <circle cx="160" cy="160" r="150" stroke="#B6EF13" fill="#fff" stroke-width="20px"></circle>
+<div class="profile-picture-parent" style="margin: 5px calc(50% - 130px);">
+       <svg class="profile-picture-background" height="2620px" width="260px">
+              <circle cx="130" cy="130" r="120" stroke="#B6EF13" fill="#fff" stroke-width="15px"></circle>
        </svg>
        <img
        class="profile-picture-character"
        style="
-              width: 300px;
-              height: 300px;"
+              width: 240px;
+              height: 240px;"
        src="resources/profile_wink.png"
        alt="profile picture">
-       <svg class="profile-picture-border" height="160px" width="60px" style="top:0px; left:260px;">
-              <circle cx="-100" cy="160" r="150" stroke="#B6EF13" fill="none" stroke-width="20px"></circle>
+       <svg class="profile-picture-border" height="130px" width="60px" style="top:0px; left:200px;">
+              <circle cx="-70" cy="130" r="120" stroke="#B6EF13" fill="none" stroke-width="15px"></circle>
        </svg>
-       <svg class="profile-picture-border" height="160px" width="320px" style="top:160px; left:0px">
-              <circle cx="160" cy="0" r="150" stroke="#B6EF13" fill="none" stroke-width="20px"></circle>
+       <svg class="profile-picture-border" height="130px" width="260px" style="top:130px; left:0px">
+              <circle cx="130" cy="0" r="120" stroke="#B6EF13" fill="none" stroke-width="15px"></circle>
        </svg>
 </div>
 <div style="text-align: center;">
-       <h1 style="margin-top: 1rem; font-weight: 900;" >산화아연</h1>
-       <h2 style="font-weight: 700;">Zinc Oxide</h2>
-       <h2 style="font-weight: 700;">ジンク・オクサイド</h2>     
+       <h1 style="margin-top: 1rem; margin-bottom: 0; font-weight: 900;">산화아연</h1><h6>3개국어 (리듬)게임 버튜버</h6>
+       <h2 style="font-weight: 700; margin-bottom: 0;">Zinc Oxide</h2><h6>Trilingual (Music)game streaming VTuber</h6>
+       <h2 style="font-weight: 700; margin-bottom: 0;">ジンク・オクサイド</h2><h6>トリリンガル(音)ゲーム実況VTuber</h6>    
 </div>
 
 <a class="btn btn-link btn-lg btn-block btn-youtube-red" href="https://youtube.com/ZincOxide" type="button">

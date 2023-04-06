@@ -380,8 +380,8 @@ legend {
 }
 .profile-picture-character{
   position: absolute;
-  top: 30px;
-  left: 30px;
+  top: 20px;
+  left: 20px;
   opacity: 0;
   border-radius: 0% 50% 50% 50%;
   z-index: 2;
@@ -401,5 +401,5 @@ legend {
 
 @keyframes alpha-appear {
   from  {left:20px; top:20px; opacity:0;}
-  to    {left: 3px; top:3px; opacity:1;}
+  to    {left: 6px; top:6px; opacity:1;}
 }
