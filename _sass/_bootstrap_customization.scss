@@ -381,7 +381,7 @@ legend {
   top: 30px;
   left: 30px;
   opacity: 0;
-  border-radius: 50%;
+  border-radius: 0% 50% 50% 50%;
   z-index: 2;
   animation-name: alpha-appear;
   animation-duration: 0.5s;
