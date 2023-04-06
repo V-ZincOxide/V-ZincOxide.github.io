@@ -16,8 +16,8 @@ layout: page
        <h2 style="font-weight: 700;">ジンク・オクサイド</h2>     
 </div>
 
-<button class="btn btn-link btn-lg btn-block btn-youtube-red" href="https://youtube.com/ZincOxide" type="button">Youtube Channel</button>
-<button class="btn btn-link btn-lg btn-block btn-twitch-purple" href="https://twitch.tv/v_zincoxide" type="button">Twitch Page</button>
+<a class="btn btn-link btn-lg btn-block btn-youtube-red" href="https://youtube.com/ZincOxide" type="button">YouTube</a>
+<a class="btn btn-link btn-lg btn-block btn-twitch-purple" href="https://twitch.tv/v_zincoxide" type="button">Twitch</a>
 
 # 새소식
 ## 2023.04.04
