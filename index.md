@@ -17,13 +17,13 @@ layout: page
 </div>
 
 <a class="btn btn-link btn-lg btn-block btn-youtube-red" href="https://youtube.com/ZincOxide" type="button">
-       <img src="/resources/yt_logo_mono_dark.png"
+       <object type="image/svg+xml" data="/resources/yt_logo_mono_dark.svg" height="100%">
        </a>
 <a class="btn btn-link btn-lg btn-block btn-twitch-purple" href="https://twitch.tv/v_zincoxide" type="button">
-       <object type="image/svg+xml" data="/resources/TwitchGlitchWhite.svg">
+       <object type="image/svg+xml" data="/resources/TwitchGlitchWhite.svg" height="100%">
        Twitch</a>
 <a class="btn btn-link btn-lg btn-block btn-twitter-blue" href="https://twitter.com/V_ZincOxide" type="button">
-       <object type="image/svg+xml" data="resources/twitter_logo_white.svg">
+       <object type="image/svg+xml" data="resources/twitter_logo_white.svg"height="100%" >
        Twitter</a>
 
 # 새소식
