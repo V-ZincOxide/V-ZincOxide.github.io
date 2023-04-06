@@ -37,14 +37,16 @@ a {
 
 // py-5 borders ================================================================
 .py-5 {
-  padding-top: calc(30px + 1.625rem) !important;
+  // padding-top: calc(30px + 1.625rem) !important;
   // 30px: icon height & font-size 1.25rem , icon padding .3125rem *2, header padding 0.5rem * 2 
+  padding-bottom: 0px;
   padding-bottom: 0px;
 }
 
 @media (min-width: 576px){ // Rule apply only on very first breakpoint 576px. Had to hard-code the px size.
   .py-5 {
-    padding-top: calc(30px + 4.625rem) !important;
+    // padding-top: calc(30px + 4.625rem) !important;
+    padding-top: 3rem
     padding-bottom: 3rem
     // Additional 3rem padding
   }
