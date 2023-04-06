@@ -2,9 +2,16 @@
 layout: page
 ---
 
-<div style="text-align: center;">
+<div class="profile-picture-parent" style="text-align: center;">
+       <svg height="320px" width="320px" style="position:relative; top:0; left:0;">
+           <circle cx="160" cy="160" r="150" stroke="#B6EF13" fill="#fff" stroke-width="10px"></circle>
+       </svg>
        <img
-       style="width: 100%;
+       style="
+              position: absolute;
+              top: 0px;
+              left: 0px;
+              width: 100%;
               max-width: 300px;
               height: auto;
               border-radius: 50%;
