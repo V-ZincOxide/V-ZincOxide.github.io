@@ -40,9 +40,7 @@ a {
   padding-bottom: 0px;
 }
 
-@use 'variables' as v;
-
-@media (min-width: nth(v.$grid-breakpoints, 2)){ // Rule apply only on very first breakpoint(sm: 576px)
+@media (min-width: 576px){ // Rule apply only on very first breakpoint 576px. Had to hard-code the px size.
   .py-5 {
     padding-top: calc(30px + 4.625rem) !important;
     padding-bottom: 3rem
