@@ -41,33 +41,33 @@ layout: page
 * 몸무게 Weight 体重: 191kg(421lbs)
 
 ## Illustrator
-#### GomTang
 <div style="text-align: center;">
        <img src="/resources/GomTang.png" style="height:150px; width:150px">
-       <a class="btn btn-link btn-twitter-blue" href="https://twitter.com/GomTang_P" type="button">
+       <h4 style="margin-top: 0.5rem;">GomTang</h4>
+       <a class="btn btn-link btn-twitter-blue" href="https://twitter.com/GomTang_P" type="button" style="width:120px;">
        <img src="resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitter</a>
 </div>
 
 ## Rigger
-#### 2395
 <div style="text-align: center;">
        <img src="/resources/2395.png" style="height:150px; width:150px">
-       <a class="btn btn-link btn-twitter-blue" href="https://twitter.com/adpn2395" type="button">
+       <h4 style="margin-top: 0.5rem;">2395</h4>
+       <a class="btn btn-link btn-twitter-blue" href="https://twitter.com/adpn2395" type="button" style="width:120px;">
        <img src="resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitter</a>
 </div>
 
 ## Supporters
 <div style="text-align: center;">
-Scorge
-Starflo
-코카스
-타르토
-dlunch
-김토끼
-HippoFatale
-Skyrhim
-나토나토
-Firefox
+<h6>Scorge</h6>
+<h6>Starflo</h6>
+<h6>코카스</h6>
+<h6>타르토</h6>
+<h6>dlunch</h6>
+<h6>김토끼</h6>
+<h6>HippoFatale</h6>
+<h6>Skyrhim</h6>
+<h6>나토나토</h6>
+<h6>Firefox</h6>
 </div>
 
 <a class="twitter-timeline" data-height="500" data-dnt="true" href="https://twitter.com/V_ZincOxide?ref_src=twsrc%5Etfw">Tweets by V_ZincOxide</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
