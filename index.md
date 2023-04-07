@@ -40,34 +40,46 @@ layout: page
 * 키 Height 身長: 231cm(7'7")
 * 몸무게 Weight 体重: 191kg(421lbs)
 
-## Illustrator
-<div style="text-align: center;">
-       <img src="/resources/GomTang.png" style="height:150px; width:150px">
-       <h4 style="margin-top: 0.5rem;">GomTang</h4>
-       <a class="btn btn-link btn-twitter-blue" href="https://twitter.com/GomTang_P" type="button" style="width:120px;">
-       <img src="resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitter</a>
-</div>
-
-## Rigger
-<div style="text-align: center;">
-       <img src="/resources/2395.png" style="height:150px; width:150px">
-       <h4 style="margin-top: 0.5rem;">2395</h4>
-       <a class="btn btn-link btn-twitter-blue" href="https://twitter.com/adpn2395" type="button" style="width:120px;">
-       <img src="resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitter</a>
-</div>
+<div class="row">
+       <div class="col-sm">
+              <h2 id="illustrator">Illustrator</h2>
+              <div style="text-align: center;">
+                     <img src="/resources/GomTang.png" style="height:150px; width:150px">
+                     <h4 style="margin-top: 0.5rem;">GomTang</h4>
+                     <a class="btn btn-link btn-twitter-blue" href="https://twitter.com/GomTang_P" type="button" style="width:120px;">
+                     <img src="resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitter</a>
+              </div>
+       </div>
+       <div class="col-sm">
+              <h2 id="rigger">Rigger</h2>
+              <div style="text-align: center;">
+                     <img src="/resources/2395.png" style="height:150px; width:150px">
+                     <h4 style="margin-top: 0.5rem;">2395</h4>
+                     <a class="btn btn-link btn-twitter-blue" href="https://twitter.com/adpn2395" type="button" style="width:120px;">
+                     <img src="resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitter</a>
+              </div>
+       </div>
 
 ## Supporters
-<div style="text-align: center;">
-<h6>Scorge</h6>
-<h6>Starflo</h6>
-<h6>코카스</h6>
-<h6>타르토</h6>
-<h6>dlunch</h6>
-<h6>김토끼</h6>
-<h6>HippoFatale</h6>
-<h6>Skyrhim</h6>
-<h6>나토나토</h6>
-<h6>Firefox</h6>
+<div class="row">
+       <div class="col-sm">
+              <div style="text-align: center;">
+              <h6>Scorge</h6>
+              <h6>Starflo</h6>
+              <h6>코카스</h6>
+              <h6>타르토</h6>
+              <h6>dlunch</h6>
+              </div>
+       </div>
+       <div class="col-sm">
+              <div style="text-align: center;">
+              <h6>김토끼</h6>
+              <h6>HippoFatale</h6>
+              <h6>Skyrhim</h6>
+              <h6>나토나토</h6>
+              <h6>Firefox</h6>
+              </div>
+       </div>
 </div>
 
 <a class="twitter-timeline" data-height="500" data-dnt="true" href="https://twitter.com/V_ZincOxide?ref_src=twsrc%5Etfw">Tweets by V_ZincOxide</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
