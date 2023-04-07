@@ -59,6 +59,7 @@ layout: page
                      <img src="resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitter</a>
               </div>
        </div>
+</div>
 
 ## Supporters
 <div class="row">
