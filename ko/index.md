@@ -22,28 +22,50 @@ layout: page
 </div>
 <div style="text-align: center;">
        <h1 style="margin-top: 1rem; margin-bottom: 0; font-weight: 900;">산화아연</h1><h6>다국어 리듬게임 버튜버</h6>
-       <h2 style="font-weight: 700; margin-bottom: 0;">Zinc Oxide</h2><h6>Multilingual Musicgame streaming VTuber</h6>
-       <h2 style="font-weight: 700; margin-bottom: 0;">ジンク・オクサイド</h2><a class="btn btn-sm btn-link btn-neonorange" href=/ja/" type="button">日本語のプロフィールはこちら</a>
+       <h2 style="font-weight: 700; margin-bottom: 0;">ジンク・オクサイド</h2>
+       <a class="btn btn-sm btn-link btn-secondary" href="/ja/" type="button">日本語のプロフィールはこちら</a>
+       <h2 style="font-weight: 700; margin-bottom: 0;">Zinc Oxide</h2>
+       <a class="btn btn-sm btn-link btn-secondary" href="/en/" type="button" style="margin-bottom: 1rem;">See this page in English</a>
 </div>
 
 <a class="btn btn-link btn-lg btn-block btn-youtube-red" href="https://youtube.com/ZincOxide" type="button">
-       <img src="../resources/youtube_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">YouTube</a>
+       <img src="../resources/youtube_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">유튜브 채널</a>
 <a class="btn btn-link btn-lg btn-block btn-twitch-purple" href="https://twitch.tv/v_zincoxide" type="button">
-       <img src="../resources/TwitchGlitchWhite.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitch</a>
+       <img src="../resources/TwitchGlitchWhite.svg" style="height:100%; max-heiht:1.4em; margin-right:0.5em;">트위치</a>
 <a class="btn btn-link btn-lg btn-block btn-twitter-blue" href="https://twitter.com/V_ZincOxide" type="button">
-       <img src="../resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitter</a>
+       <img src="../resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">트위터</a>
 <a class="btn btn-link btn-lg btn-block btn-marshmallow-pink" href="https://marshmallow-qa.com/v_zincoxide" type="button">
-       <img src="../resources/marshmallow-logo.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">マシュマロ</a>
+       <img src="../resources/marshmallow-logo.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">마쉬멜로(익명질문함)</a>
 
-# プロフィール
-![ジンクオクサイドの三面図](../resources/3view.png)
-* 키 Height 身長: 231cm(7'7")
-* 몸무게 Weight 体重: 191kg(421lbs)
+# 프로필
+![산화아연의 앞, 옆, 뒤 삼면도](../resources/3view.png)
+> 초록 피부와 큰 키가 특징인 20대 중후반의 청년.
+> 영문도 모른 채 다른 세계에서 홀로 떨어져 나와 이 세계에 불시착해버렸다.
+> 하지만 현대 문물에 푹 빠진 그는 원래 세계로의 복귀조차 잊고 사무실에서 퇴근만을 기다린다.
+* 키: 231cm
+* 몸무게: 191kg
+* 생일: 9월 8일
 
-# パパ
+### 좋아하는 것
+* 게임 (특히 리듬게임)
+* EDM, 퍼퓸
+* 서브○이 샌드위치
+* 전자기기 (컴퓨터, 모바일, 가전등  안 가리고)
+* 쇼핑 (굿즈 쇼핑 최고)
+* 어쨌든 실외활동이 아닌 것
+* 고양이!!!!!! (알레르기 있음)
+* 나같이 두껍고 근육 많은 친구들
+* 좋아하는 것에 대해 이야기하기
+
+### 활동 이유
+* 새로운 것에 도전하고 싶다
+* 같은 취미, 취향의 사람들과 즐겁게 이야기하고 싶다
+* 국경을 초월한 친구를 사귀고 싶다
+
+# 우리 아빠
 <div class="row">
        <div class="col-sm">
-              <h2 id="illustrator">イラストレーター</h2>
+              <h2 id="illustrator">일러스트</h2>
               <div style="text-align: center;">
                      <img src="../resources/GomTang.png" style="height:150px; width:150px">
                      <h4 style="margin-top: 0.5rem;">GomTang</h4>
@@ -63,7 +85,7 @@ layout: page
 </div>
 
 <br>
-## サポーターズ
+## 용기를 주신 분들
 <div class="row">
        <div class="col-sm">
               <div style="text-align: center;">

@@ -21,53 +21,52 @@ layout: page
        </svg>
 </div>
 <div style="text-align: center;">
-       <h1 style="margin-top: 1rem; font-weight: 900; margin-bottom: 0;">ジンク・オクサイド</h1><h6>マルチリンガル音ゲー実況VTuber</h6>
+       <h1 style="margin-top: 1rem; margin-bottom: 0; font-weight: 900;">Zinc Oxide</h1><h6>Multilingual Rhythm game focused VTuber</h6>
        <h2 style="margin-bottom: 0; font-weight: 700;">산화아연</h2>
-       <a class="btn btn-sm btn-link btn-secondary" href="/ja/" type="button">한국어 프로필 페이지로 이동하기</a>
-       <h2 style="font-weight: 700; margin-bottom: 0;">Zinc Oxide</h2>
-       <a class="btn btn-sm btn-link btn-secondary" href="/en/" type="button" style="margin-bottom: 1rem;">See this page in English</a>
+       <a class="btn btn-sm btn-link btn-secondary" href="/ko/" type="button">한국어 프로필 페이지로 이동하기</a>
+       <h2 style="font-weight: 700; margin-bottom: 0;">ジンク・オクサイド</h2>
+       <a class="btn btn-sm btn-link btn-secondary" href="/ja/" type="button" style="margin-bottom: 1rem;">日本語のプロフィールはこちら</a>
 </div>
 
 <a class="btn btn-link btn-lg btn-block btn-youtube-red" href="https://youtube.com/ZincOxide" type="button">
-       <img src="../resources/youtube_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">YouTube チャンネル</a>
+       <img src="../resources/youtube_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">YouTube</a>
 <a class="btn btn-link btn-lg btn-block btn-twitch-purple" href="https://twitch.tv/v_zincoxide" type="button">
-       <img src="../resources/TwitchGlitchWhite.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitch</a>
+       <img src="../resources/TwitchGlitchWhite.svg" style="height:100%; max-heiht:1.4em; margin-right:0.5em;">Twitch</a>
 <a class="btn btn-link btn-lg btn-block btn-twitter-blue" href="https://twitter.com/V_ZincOxide" type="button">
        <img src="../resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitter</a>
 <a class="btn btn-link btn-lg btn-block btn-marshmallow-pink" href="https://marshmallow-qa.com/v_zincoxide" type="button">
-       <img src="../resources/marshmallow-logo.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">マシュマロ</a>
+       <img src="../resources/marshmallow-logo.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">Anonymous Questions(Marshmallow)</a>
 
-# プロフィール
-![ジンクオクサイドの三面図](../resources/3view.png)
-> 緑の肌と高い身長が特徴的な２０代後半の青年。
-> 別の世界から訳もわからずにこの世界に一人で不時着してしまった。
-> 現代文物に完全に夢中になった彼は、元の世界への復帰すら忘れたまま、オフィスで退勤だけを待つ。
-* 名前: ジンク・オクサイド（ジンクで🆗）
-* 身長: 231cm
-* 体重: 191kg
-* 誕生日: 9月8日
+# Profile
+![3 side view of Zinc Oxide](../resources/3view.png)
+> A tall man with greenish skin, who’s in his late twenties.
+> He had no idea what happened to him when he landed in this world alone.
+> But he definitely knows that he loves this world and wants to leave the office as soon as possible.
+> …Looks like even he himself has forgotten to return to his original world.
+* Height: 231cm(7'7")
+* Weight: 191kg(421lbs)
+* Birthday: Sep 8th
 
-### 好きなもの
-* ゲーム（音ゲー大好き！）
-* EDM, パフューム
-* サブ○ェイサンドイッチ
-* 電子機器（パソコン、スマホ、家電などなど）
-* ショッピング（おかげでグッズいっぱい買っちゃいました）
-* とにかく屋内にいること
-* 猫！！！！（だけど猫の毛にアレルギーがある）
-* 僕みたいな筋肉が分厚く背高いキャラ
-* 好きなものについて語り合うこと
+### Likes
+* Video games (Especially Rhythm games)
+* EDM, Perfume
+* Sub○ay Sandwiches
+* Electronics(Computers, Mobile, Home appliances etc.)전자기기
+* Shopping (Like character goods)
+* Staying indoors
+* Cats!!!!!! (but have allergy)
+* those who is tall and has muscular body!(like me)
+* Talking about things I like
 
+### Purpose of being a VTuber
+* To challenge to new things and activities
+* To talk with others about favorite things in common
+* To make friends beyond borders
 
-### 活動する理由
-* 新しいことに挑戦したい
-* 同じ趣味、好みを持つ人たちと楽しく語り合いたい
-* 国境を超えた友達を作りたい
-
-# パパ
+# Daddy
 <div class="row">
        <div class="col-sm">
-              <h2 id="illustrator">イラスト</h2>
+              <h2 id="illustrator">Illustrator</h2>
               <div style="text-align: center;">
                      <img src="../resources/GomTang.png" style="height:150px; width:150px">
                      <h4 style="margin-top: 0.5rem;">GomTang</h4>
@@ -76,7 +75,7 @@ layout: page
               </div>
        </div>
        <div class="col-sm">
-              <h2 id="rigger">Live2D</h2>
+              <h2 id="rigger">Live2D Rigger</h2>
               <div style="text-align: center;">
                      <img src="../resources/2395.png" style="height:150px; width:150px">
                      <h4 style="margin-top: 0.5rem;">2395</h4>
@@ -87,7 +86,7 @@ layout: page
 </div>
 
 <br>
-## サポーターズ
+## Supporters
 <div class="row">
        <div class="col-sm">
               <div style="text-align: center;">
