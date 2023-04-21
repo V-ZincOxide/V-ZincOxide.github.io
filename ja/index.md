@@ -23,7 +23,7 @@ layout: page
 <div style="text-align: center;">
        <h1 style="margin-top: 1rem; font-weight: 900; margin-bottom: 0;">ジンク・オクサイド</h1><h6>マルチリンガル音ゲー実況VTuber</h6>
        <h2 style="margin-bottom: 0; font-weight: 700;">산화아연</h2>
-       <a class="btn btn-sm btn-link btn-secondary" href="/ja/" type="button">한국어 프로필 페이지로 이동하기</a>
+       <a class="btn btn-sm btn-link btn-secondary" href="/ko/" type="button">한국어 프로필 페이지로 이동하기</a>
        <h2 style="font-weight: 700; margin-bottom: 0;">Zinc Oxide</h2>
        <a class="btn btn-sm btn-link btn-secondary" href="/en/" type="button" style="margin-bottom: 1rem;">See this page in English</a>
 </div>
