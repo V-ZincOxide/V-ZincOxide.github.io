@@ -21,22 +21,22 @@ layout: page
        </svg>
 </div>
 <div style="text-align: center;">
-       <h1 style="margin-top: 1rem; margin-bottom: 0; font-weight: 900;">산화아연</h1><h6>다국어 리듬게임 버튜버</h6>
-       <h2 style="font-weight: 700; margin-bottom: 0;">Zinc Oxide</h2><h6>Multilingual Musicgame streaming VTuber</h6>
-       <h2 style="font-weight: 700; margin-bottom: 0;">ジンク・オクサイド</h2><h6>マルチリンガル音ゲー実況VTuber</h6>    
+       <h1 style="margin-top: 1rem; font-weight: 900; margin-bottom: 0;">ジンク・オクサイド</h2><h6>マルチリンガル音ゲー実況VTuber</h6>
+       <h2 style="margin-bottom: 0; font-weight: 700;">산화아연</h2><h6><a href="/ko/">한국어 프로필 페이지로 이동하기</a></h6>
+       <h2 style="font-weight: 700; margin-bottom: 0;">Zinc Oxide</h2><h6>Multilingual Musicgame streaming VTuber</h6> 
 </div>
 
 <a class="btn btn-link btn-lg btn-block btn-youtube-red" href="https://youtube.com/ZincOxide" type="button">
-       <img src="/resources/youtube_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">YouTube</a>
+       <img src="../resourcesyoutube_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">YouTube</a>
 <a class="btn btn-link btn-lg btn-block btn-twitch-purple" href="https://twitch.tv/v_zincoxide" type="button">
-       <img src="/resources/TwitchGlitchWhite.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitch</a>
+       <img src="../resourcesTwitchGlitchWhite.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitch</a>
 <a class="btn btn-link btn-lg btn-block btn-twitter-blue" href="https://twitter.com/V_ZincOxide" type="button">
        <img src="resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitter</a>
 <a class="btn btn-link btn-lg btn-block btn-marshmallow-pink" href="https://marshmallow-qa.com/v_zincoxide" type="button">
        <img src="resources/marshmallow-logo.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">マシュマロ</a>
 
 # Profile
-![산화아연의 앞, 옆, 뒤 삼면도](resources/3view.png)
+![산화아연의 앞, 옆, 뒤 삼면도](../resources/3view.png)
 * 키 Height 身長: 231cm(7'7")
 * 몸무게 Weight 体重: 191kg(421lbs)
 
@@ -44,7 +44,7 @@ layout: page
        <div class="col-sm">
               <h2 id="illustrator">Illustrator</h2>
               <div style="text-align: center;">
-                     <img src="/resources/GomTang.png" style="height:150px; width:150px">
+                     <img src="../resourcesGomTang.png" style="height:150px; width:150px">
                      <h4 style="margin-top: 0.5rem;">GomTang</h4>
                      <a class="btn btn-link btn-twitter-blue" href="https://twitter.com/GomTang_P" type="button" style="width:120px;">
                      <img src="resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitter</a>
@@ -53,7 +53,7 @@ layout: page
        <div class="col-sm">
               <h2 id="rigger">Rigger</h2>
               <div style="text-align: center;">
-                     <img src="/resources/2395.png" style="height:150px; width:150px">
+                     <img src="../resources2395.png" style="height:150px; width:150px">
                      <h4 style="margin-top: 0.5rem;">2395</h4>
                      <a class="btn btn-link btn-twitter-blue" href="https://twitter.com/adpn2395" type="button" style="width:120px;">
                      <img src="resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitter</a>
