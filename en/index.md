@@ -50,7 +50,7 @@ layout: page
 ### Likes
 * Video games (Especially Rhythm games)
 * EDM, Perfume
-* Sub○ay Sandwiches
+* Sub*ay Sandwiches
 * Electronics(Computers, Mobile, Home appliances etc.)전자기기
 * Shopping (Like character goods)
 * Staying indoors
