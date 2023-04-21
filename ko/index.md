@@ -23,7 +23,7 @@ layout: page
 <div style="text-align: center;">
        <h1 style="margin-top: 1rem; margin-bottom: 0; font-weight: 900;">산화아연</h1><h6>다국어 리듬게임 버튜버</h6>
        <h2 style="font-weight: 700; margin-bottom: 0;">Zinc Oxide</h2><h6>Multilingual Musicgame streaming VTuber</h6>
-       <h2 style="font-weight: 700; margin-bottom: 0;">ジンク・オクサイド</h2><h6><a href="/ja/">日本語のプロフィールはこちら</a></h6>    
+       <h2 style="font-weight: 700; margin-bottom: 0;">ジンク・オクサイド</h2><a class="btn btn-sm btn-link btn-neonorange" href=/ja/" type="button">日本語のプロフィールはこちら</a>
 </div>
 
 <a class="btn btn-link btn-lg btn-block btn-youtube-red" href="https://youtube.com/ZincOxide" type="button">
@@ -33,7 +33,7 @@ layout: page
 <a class="btn btn-link btn-lg btn-block btn-twitter-blue" href="https://twitter.com/V_ZincOxide" type="button">
        <img src="../resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitter</a>
 <a class="btn btn-link btn-lg btn-block btn-marshmallow-pink" href="https://marshmallow-qa.com/v_zincoxide" type="button">
-       <img src="r../esources/marshmallow-logo.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">マシュマロ</a>
+       <img src="../resources/marshmallow-logo.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">マシュマロ</a>
 
 # プロフィール
 ![ジンクオクサイドの三面図](../resources/3view.png)
