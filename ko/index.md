@@ -46,9 +46,8 @@ layout: page
 * 몸무게: 191kg
 * 생일: 9월 8일
 
-### 좋아하는 것
-* 게임 (특히 리듬게임)
-* EDM, 퍼퓸
+# 좋아하는 것
+* 음악듣기, 퍼퓸(Perfume)
 * 서브○이 샌드위치
 * 전자기기 (컴퓨터, 모바일, 가전등  안 가리고)
 * 쇼핑 (굿즈 쇼핑 최고)
@@ -57,7 +56,84 @@ layout: page
 * 나같이 두껍고 근육 많은 친구들
 * 좋아하는 것에 대해 이야기하기
 
-### 활동 이유
+### 주력 게임
+<div class="row">
+       <div class="col-sm">
+              <div style="text-align: center;">
+                     <img src="../resources/games/ffxiv-endwalker.png" href="https://store.steampowered.com/app/1477590/EZ2ON_REBOOT__R/" alt="이지투온 리부트 R" style="max-width:300px">
+              </div>
+              <div style="text-align: center;">
+                     <img src="../resources/games/djmax-respectv.png" href="https://store.steampowered.com/app/960170/DJMAX_RESPECT_V/" alt="디제이맥스 리스펙트 V" style="max-width:300px">
+              </div>
+              <div style="text-align: center;">
+                     <img src="../resources/games/iidx-infinitas.png" href="https://usta.kr/infinitas/index.php" alt="비트매니아 투디엑스 인피니타스" style="max-width:300px">
+              </div>
+              <div style="text-align: center;">
+                     <img src="../resources/games/proseka-kr.png" href="https://www.kr-pjsekai.com" alt="프로젝트 세카이" style="max-width:300px">
+              </div>
+       </div>
+       <div class="col-sm">
+              <div style="text-align: center;">
+                     <img src="../resources/games/FFXIV600_ENDWALKER_Logo_5K_Master_KR_FIX_black(transparent).png" href="https://www.ff14.co.kr/main" alt="파이널판타지 14" style="max-width:300px">
+              </div>
+              <div style="text-align: center;">
+                     <img src="../resources/games/liveahero" href="https://live-a-hero.jp" alt="라이브 어 히어로 (한국어 미지원)" style="max-width:300px">
+              </div>
+              <div style="text-align: center;">
+                     <img src="../resources/games/arknights-kr.png" href="https://www.arknights.kr" alt="명일방주" style="max-width:300px">
+              </div>
+              <div style="text-align: center;">
+                     <img src="../resources/games/jantama.png" href="https://www.ff14.co.kr/main" alt="작혼" style="max-width:300px">
+              </div>
+       </div>
+</div>
+
+<div class="row">
+       <div class="col-sm">
+              <h3>가끔씩 하는 게임</h3>
+              <ul>
+                     <li>팝픈뮤직</li>
+                     <li>사운드 볼텍스</li>
+                     <li>유비트</li>
+                     <li>리플렉 비트</li>
+                     <li>댄스 댄스 레볼루션</li>
+                     <li>펌프 잇 업</li>
+                     <li>마이마이</li>
+                     <li>츄니즘</li>
+                     <li>A Dance Of Fire And Ice</li>
+                     <li>Rhythm Doctor</li>
+                     <li>도쿄 방과후 서모너즈</li>
+                     <li>그랑블루 판타지</li>
+                     <li>스플래툰3</li>
+                     <li>시아트리듬 파이널 바 라인</li>
+              </ul>
+       </div>
+       <div class="col-sm">
+              <h3>해본 적은 있는 게임</h3>
+              <ul>
+                     <li>노스탤지어</li>
+                     <li>왓카</li>
+                     <li>기타도라</li>
+                     <li>왓카</li>
+                     <li>Phigros</li>
+                     <li>Deemo</li>
+                     <li>Tone Sphere</li>
+                     <li>Groove Coaster(Rhythmvaders)</li>
+                     <li>식스타 게이트: 스타 트레일</li>
+                     <li>Stray</li>
+                     <li>몬스터 헌터:월드</li>
+                     <li>모여봐요 동물의 숲</li>
+                     <li>Braid</li>
+                     <li>Super Hexagon</li>
+              </ul>
+       </div>
+</div>
+
+
+
+### 해본적은 있는 게임
+
+# 활동 이유
 * 새로운 것에 도전하고 싶다
 * 같은 취미, 취향의 사람들과 즐겁게 이야기하고 싶다
 * 국경을 초월한 친구를 사귀고 싶다
