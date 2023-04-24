@@ -47,9 +47,8 @@ layout: page
 * Weight: 191kg(421lbs)
 * Birthday: Sep 8th
 
-### Likes
-* Video games (Especially Rhythm games)
-* EDM, Perfume
+# Likes
+* Listening to music, Perfume
 * Sub*ay Sandwiches
 * Electronics(Computers, Mobile, Home appliances etc.)전자기기
 * Shopping (Like character goods)
@@ -58,7 +57,96 @@ layout: page
 * those who is tall and has muscular body!(like me)
 * Talking about things I like
 
-### Purpose of being a VTuber
+# Games I like
+<div class="row">
+       <div class="col-sm">
+              <div style="text-align: center;">
+                     <a href="https://store.steampowered.com/app/1477590/EZ2ON_REBOOT__R/">
+                     <img src="../resources/games/ez2on-rebootr.jpg" alt="EZ2ON REBOOT:R" style="margin-bottom: 1rem; max-width:300px">
+                     </a>
+              </div>
+              <div style="text-align: center;">
+                     <a href="https://store.steampowered.com/app/960170/DJMAX_RESPECT_V/">
+                     <img src="../resources/games/djmax-respectv.jpg" alt="DJMAX RESPECT V" style="margin-bottom: 1rem; max-width:300px">
+                     </a>
+              </div>
+              <div style="text-align: center;">
+                     <a href="https://p.eagate.573.jp/game/infinitas/2/">
+                     <img src="../resources/games/iidx-infinitas.png" alt="beatmania IIDX Infinitas(Japan only)" style="margin-bottom: 1rem; max-width:300px">
+                     </a>
+              </div>
+              <div style="text-align: center;">
+                     <a  href="https://www.colorfulstage.com">
+                     <img src="../resources/games/proseka-en.png" alt="Hatsune Miku Colorful Stage!" style="margin-bottom: 1rem; max-width:300px">
+                     </a>
+              </div>
+       </div>
+       <div class="col-sm">
+              <div style="text-align: center;">
+                     <a href="https://www.finalfantasyxiv.com">
+                     <img src="../resources/games/ffxiv-endwalker.png" alt="FINAL FANTASY XIV" style="margin-bottom: 1rem; max-width:300px">
+                     </a>
+              </div>
+              <div style="text-align: center;">
+                     <a href="https://live-a-hero.jp">
+                     <img src="../resources/games/liveahero.png" alt="Live a Hero(Japan only)" style="margin-bottom: 1rem; max-height:200px">
+                     </a>
+              </div>
+              <div style="text-align: center;">
+                     <a href="https://www.arknights.global">
+                     <img src="../resources/games/arknights-kr.png" alt="Arknights" style="margin-bottom: 1rem; max-width:300px">
+                     </a>
+              </div>
+              <div style="text-align: center;">
+                     <a href="https://mahjongsoul.yo-star.com">
+                     <img src="../resources/games/jantama.png" alt="Mahjong Soul" style="margin-bottom: 1rem; max-height:200px">
+                     </a>
+              </div>
+       </div>
+</div>
+
+<div class="row">
+       <div class="col-sm">
+              <h3>games I sometimes do</h3>
+              <ul>
+                     <li>Pop'n music</li>
+                     <li>SOUND VOLTEX</li>
+                     <li>Jubeat</li>
+                     <li>Reflec Beat</li>
+                     <li>DanceDanceRevolution</li>
+                     <li>Pumpt it Up</li>
+                     <li>maimai</li>
+                     <li>chunithm</li>
+                     <li>A Dance Of Fire And Ice</li>
+                     <li>Rhythm Doctor</li>
+                     <li>Tokyo Afterschool Summoners</li>
+                     <li>Granblue Fantasy</li>
+                     <li>Splatoon3</li>
+                     <li>THEATRHYTHM FINAL BAR LINE</li>
+              </ul>
+       </div>
+       <div class="col-sm">
+              <h3>Games I have played at least once</h3>
+              <ul>
+                     <li>Nostalgia</li>
+                     <li>WACCA</li>
+                     <li>GITADORA</li>
+                     <li>WACCA</li>
+                     <li>Phigros</li>
+                     <li>Deemo</li>
+                     <li>Tone Sphere</li>
+                     <li>Groove Coaster</li>
+                     <li>Sixstar Gate: Startrail</li>
+                     <li>Stray</li>
+                     <li>Monster Hunter: World</li>
+                     <li>Animal Crossing: New Horizons</li>
+                     <li>Braid</li>
+                     <li>Super Hexagon</li>
+              </ul>
+       </div>
+</div>
+
+# Reason why I debuted
 * To challenge to new things and activities
 * To talk with others about favorite things in common
 * To make friends beyond borders

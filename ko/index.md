@@ -56,7 +56,7 @@ layout: page
 * 나같이 두껍고 근육 많은 친구들
 * 좋아하는 것에 대해 이야기하기
 
-### 주력 게임
+# 주력 게임
 <div class="row">
        <div class="col-sm">
               <div style="text-align: center;">

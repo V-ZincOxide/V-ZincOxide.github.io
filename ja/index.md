@@ -47,9 +47,9 @@ layout: page
 * 体重: 191kg
 * 誕生日: 9月8日
 
-### 好きなもの
-* ゲーム（音ゲー大好き！）
-* EDM, パフューム
+
+# 好きなもの
+* 音楽鑑賞, パフューム
 * サブ○ェイサンドイッチ
 * 電子機器（パソコン、スマホ、家電などなど）
 * ショッピング（おかげでグッズいっぱい買っちゃいました）
@@ -58,8 +58,96 @@ layout: page
 * 僕みたいな筋肉が分厚く背高いキャラ
 * 好きなものについて語り合うこと
 
+# 大好きなゲーム
+<div class="row">
+       <div class="col-sm">
+              <div style="text-align: center;">
+                     <a href="https://store.steampowered.com/app/1477590/EZ2ON_REBOOT__R/">
+                     <img src="../resources/games/ez2on-rebootr.jpg" alt="イージートゥオン　リブート R" style="margin-bottom: 1rem; max-width:300px">
+                     </a>
+              </div>
+              <div style="text-align: center;">
+                     <a href="https://store.steampowered.com/app/960170/DJMAX_RESPECT_V/">
+                     <img src="../resources/games/djmax-respectv.jpg" alt="ディージェイマックス　リスペクト V" style="margin-bottom: 1rem; max-width:300px">
+                     </a>
+              </div>
+              <div style="text-align: center;">
+                     <a href="https://p.eagate.573.jp/game/infinitas/2/">
+                     <img src="../resources/games/iidx-infinitas.png" alt="ビートマニア　ツーディエックス　インフィニタス" style="margin-bottom: 1rem; max-width:300px">
+                     </a>
+              </div>
+              <div style="text-align: center;">
+                     <a  href="https://pjsekai.sega.jp">
+                     <img src="../resources/games/proseka-jp.png" alt="プロジェクトセカイ　カラフルステージ　フィーチャリング　初音ミク" style="margin-bottom: 1rem; max-width:300px">
+                     </a>
+              </div>
+       </div>
+       <div class="col-sm">
+              <div style="text-align: center;">
+                     <a href="https://www.finalfantasyxiv.com">
+                     <img src="../resources/games/ffxiv-endwalker.png" alt="ファイナルファンタジー　フォーティーン" style="margin-bottom: 1rem; max-width:300px">
+                     </a>
+              </div>
+              <div style="text-align: center;">
+                     <a href="https://live-a-hero.jp">
+                     <img src="../resources/games/liveahero.png" alt="ライブ・ア・ヒーロー" style="margin-bottom: 1rem; max-height:200px">
+                     </a>
+              </div>
+              <div style="text-align: center;">
+                     <a href="https://www.arknights.jp">
+                     <img src="../resources/games/arknights-kr.png" alt="アークナイツ" style="margin-bottom: 1rem; max-width:300px">
+                     </a>
+              </div>
+              <div style="text-align: center;">
+                     <a href="https://mahjongsoul.com">
+                     <img src="../resources/games/jantama.png" alt="じゃんたま" style="margin-bottom: 1rem; max-height:200px">
+                     </a>
+              </div>
+       </div>
+</div>
 
-### 活動する理由
+<div class="row">
+       <div class="col-sm">
+              <h3>たまにやってるゲーム</h3>
+              <ul>
+                     <li>ポップンミュージック</li>
+                     <li>SOUND VOLTEX</li>
+                     <li>Jubeat</li>
+                     <li>リフレクビート</li>
+                     <li>ダンスダンスレボリューション</li>
+                     <li>Pumpt it Up</li>
+                     <li>マイマイ</li>
+                     <li>チュウニズム</li>
+                     <li>A Dance Of Fire And Ice</li>
+                     <li>Rhythm Doctor</li>
+                     <li>東京放課後サモナーズ</li>
+                     <li>グランブル・ファンタジー</li>
+                     <li>スプラトゥーン3</li>
+                     <li>シアトリズム　ファイナルバーライン</li>
+              </ul>
+       </div>
+       <div class="col-sm">
+              <h3>해본 적은 있는 게임</h3>
+              <ul>
+                     <li>ノスタルジア</li>
+                     <li>WACCA</li>
+                     <li>GITADORA</li>
+                     <li>왓카</li>
+                     <li>Phigros</li>
+                     <li>Deemo</li>
+                     <li>Tone Sphere</li>
+                     <li>Groove Coaster</li>
+                     <li>シックスターゲート・スタートレイル</li>
+                     <li>Stray</li>
+                     <li>モンスターハンター：ワールド</li>
+                     <li>あつまれどうぶつの森</li>
+                     <li>Braid</li>
+                     <li>Super Hexagon</li>
+              </ul>
+       </div>
+</div>
+
+# 活動する理由
 * 新しいことに挑戦したい
 * 同じ趣味、好みを持つ人たちと楽しく語り合いたい
 * 国境を超えた友達を作りたい
