@@ -60,10 +60,10 @@ layout: page
 <div class="row">
        <div class="col-sm">
               <div style="text-align: center;">
-                     <img src="../resources/games/ffxiv-endwalker.png" href="https://store.steampowered.com/app/1477590/EZ2ON_REBOOT__R/" alt="이지투온 리부트 R" style="max-width:300px">
+                     <img src="../resources/games/ez2on-rebootr.jpg" href="https://store.steampowered.com/app/1477590/EZ2ON_REBOOT__R/" alt="이지투온 리부트 R" style="max-width:300px">
               </div>
               <div style="text-align: center;">
-                     <img src="../resources/games/djmax-respectv.png" href="https://store.steampowered.com/app/960170/DJMAX_RESPECT_V/" alt="디제이맥스 리스펙트 V" style="max-width:300px">
+                     <img src="../resources/games/djmax-respectv.jpg" href="https://store.steampowered.com/app/960170/DJMAX_RESPECT_V/" alt="디제이맥스 리스펙트 V" style="max-width:300px">
               </div>
               <div style="text-align: center;">
                      <img src="../resources/games/iidx-infinitas.png" href="https://usta.kr/infinitas/index.php" alt="비트매니아 투디엑스 인피니타스" style="max-width:300px">
@@ -77,7 +77,7 @@ layout: page
                      <img src="../resources/games/FFXIV600_ENDWALKER_Logo_5K_Master_KR_FIX_black(transparent).png" href="https://www.ff14.co.kr/main" alt="파이널판타지 14" style="max-width:300px">
               </div>
               <div style="text-align: center;">
-                     <img src="../resources/games/liveahero" href="https://live-a-hero.jp" alt="라이브 어 히어로 (한국어 미지원)" style="max-width:300px">
+                     <img src="../resources/games/liveahero.png" href="https://live-a-hero.jp" alt="라이브 어 히어로 (한국어 미지원)" style="max-width:300px">
               </div>
               <div style="text-align: center;">
                      <img src="../resources/games/arknights-kr.png" href="https://www.arknights.kr" alt="명일방주" style="max-width:300px">
