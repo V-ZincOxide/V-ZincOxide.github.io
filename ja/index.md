@@ -95,7 +95,7 @@ layout: page
               </div>
               <div style="text-align: center;">
                      <a href="https://www.arknights.jp">
-                     <img src="../resources/games/arknights-kr.png" alt="アークナイツ" style="margin-bottom: 1rem; max-width:300px">
+                     <img src="../resources/games/arknights-jp.png" alt="アークナイツ" style="margin-bottom: 1rem; max-width:300px">
                      </a>
               </div>
               <div style="text-align: center;">

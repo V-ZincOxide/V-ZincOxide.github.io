@@ -94,7 +94,7 @@ layout: page
               </div>
               <div style="text-align: center;">
                      <a href="https://www.arknights.global">
-                     <img src="../resources/games/arknights-kr.png" alt="Arknights" style="margin-bottom: 1rem; max-width:300px">
+                     <img src="../resources/games/arknights-en.png" alt="Arknights" style="margin-bottom: 1rem; max-width:300px">
                      </a>
               </div>
               <div style="text-align: center;">
