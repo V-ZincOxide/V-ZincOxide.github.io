@@ -127,7 +127,7 @@ layout: page
               </ul>
        </div>
        <div class="col-sm">
-              <h3>해본 적은 있는 게임</h3>
+              <h3>やったことはあるゲーム</h3>
               <ul>
                      <li>ノスタルジア</li>
                      <li>WACCA</li>
