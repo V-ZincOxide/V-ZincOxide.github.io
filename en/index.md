@@ -99,7 +99,7 @@ layout: page
               </div>
               <div style="text-align: center;">
                      <a href="https://mahjongsoul.yo-star.com">
-                     <img src="../resources/games/jantama.png" alt="Mahjong Soul" style="margin-bottom: 1rem; max-height:200px">
+                     <img src="../resources/games/jantama.png" alt="Mahjong Soul" style="margin-bottom: 1rem; max-height:160px">
                      </a>
               </div>
        </div>

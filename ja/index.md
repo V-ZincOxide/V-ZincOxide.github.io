@@ -90,7 +90,7 @@ layout: page
               </div>
               <div style="text-align: center;">
                      <a href="https://live-a-hero.jp">
-                     <img src="../resources/games/liveahero.png" alt="ライブ・ア・ヒーロー" style="margin-bottom: 1rem; max-height:200px">
+                     <img src="../resources/games/liveahero.png" alt="ライブ・ア・ヒーロー" style="margin-bottom: 1rem; max-height:160px">
                      </a>
               </div>
               <div style="text-align: center;">
@@ -100,7 +100,7 @@ layout: page
               </div>
               <div style="text-align: center;">
                      <a href="https://mahjongsoul.com">
-                     <img src="../resources/games/jantama.png" alt="じゃんたま" style="margin-bottom: 1rem; max-height:200px">
+                     <img src="../resources/games/jantama.png" alt="じゃんたま" style="margin-bottom: 1rem; max-height:160px">
                      </a>
               </div>
        </div>
