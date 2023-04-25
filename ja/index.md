@@ -130,7 +130,6 @@ layout: page
               <h3>やったことはあるゲーム</h3>
               <ul>
                      <li>ノスタルジア</li>
-                     <li>WACCA</li>
                      <li>GITADORA</li>
                      <li>Phigros</li>
                      <li>Deemo</li>

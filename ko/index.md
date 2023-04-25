@@ -128,7 +128,6 @@ layout: page
               <h3>해본 적은 있는 게임</h3>
               <ul>
                      <li>노스탤지어</li>
-                     <li>왓카</li>
                      <li>기타도라</li>
                      <li>Phigros</li>
                      <li>Deemo</li>

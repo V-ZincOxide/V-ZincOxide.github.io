@@ -129,7 +129,6 @@ layout: page
               <h3>Games I have played at least once</h3>
               <ul>
                      <li>Nostalgia</li>
-                     <li>WACCA</li>
                      <li>GITADORA</li>
                      <li>Phigros</li>
                      <li>Deemo</li>
