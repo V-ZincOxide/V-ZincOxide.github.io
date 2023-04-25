@@ -115,8 +115,8 @@ layout: page
                      <li>Reflec Beat</li>
                      <li>DanceDanceRevolution</li>
                      <li>Pumpt it Up</li>
-                     <li>maimai</li>
-                     <li>chunithm</li>
+                     <li>Maimai</li>
+                     <li>Chunithm</li>
                      <li>A Dance Of Fire And Ice</li>
                      <li>Rhythm Doctor</li>
                      <li>Tokyo Afterschool Summoners</li>
