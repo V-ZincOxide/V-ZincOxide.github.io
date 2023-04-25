@@ -132,7 +132,6 @@ layout: page
                      <li>ノスタルジア</li>
                      <li>WACCA</li>
                      <li>GITADORA</li>
-                     <li>왓카</li>
                      <li>Phigros</li>
                      <li>Deemo</li>
                      <li>Tone Sphere</li>

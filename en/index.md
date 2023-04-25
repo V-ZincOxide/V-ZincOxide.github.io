@@ -131,7 +131,6 @@ layout: page
                      <li>Nostalgia</li>
                      <li>WACCA</li>
                      <li>GITADORA</li>
-                     <li>WACCA</li>
                      <li>Phigros</li>
                      <li>Deemo</li>
                      <li>Tone Sphere</li>

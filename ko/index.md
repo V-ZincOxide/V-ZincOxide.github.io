@@ -130,7 +130,6 @@ layout: page
                      <li>노스탤지어</li>
                      <li>왓카</li>
                      <li>기타도라</li>
-                     <li>왓카</li>
                      <li>Phigros</li>
                      <li>Deemo</li>
                      <li>Tone Sphere</li>
