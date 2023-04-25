@@ -114,6 +114,7 @@ layout: page
                      <li>리플렉 비트</li>
                      <li>댄스 댄스 레볼루션</li>
                      <li>펌프 잇 업</li>
+                     <li>EZ2AC(EZ2DJ)</li>
                      <li>마이마이</li>
                      <li>츄니즘</li>
                      <li>A Dance Of Fire And Ice</li>

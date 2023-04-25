@@ -115,7 +115,8 @@ layout: page
                      <li>Jubeat</li>
                      <li>リフレクビート</li>
                      <li>ダンスダンスレボリューション</li>
-                     <li>Pumpt it Up</li>
+                     <li>Pump it Up</li>
+                     <li>EZ2AC(旧EZ2DJ)</li>
                      <li>マイマイ</li>
                      <li>チュウニズム</li>
                      <li>A Dance Of Fire And Ice</li>

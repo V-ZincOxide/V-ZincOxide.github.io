@@ -114,7 +114,8 @@ layout: page
                      <li>Jubeat</li>
                      <li>Reflec Beat</li>
                      <li>DanceDanceRevolution</li>
-                     <li>Pumpt it Up</li>
+                     <li>Pump it Up</li>
+                     <li>EZ2AC(EZ2DJ)</li>
                      <li>Maimai</li>
                      <li>Chunithm</li>
                      <li>A Dance Of Fire And Ice</li>
