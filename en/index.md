@@ -21,7 +21,7 @@ layout: page
        </svg>
 </div>
 <div style="text-align: center;">
-       <h1 style="margin-top: 1rem; margin-bottom: 0; font-weight: 900;">Zinc Oxide</h1><h6>Multilingual Rhythm game focused VTuber</h6>
+       <h1 style="margin-top: 1rem; margin-bottom: 0; font-weight: 900;">Zinc Oxide</h1><h6>Rhythm Game Enthusiast Multilingual VTuber</h6>
        <h2 style="margin-bottom: 0; font-weight: 700;">산화아연</h2>
        <a class="btn btn-sm btn-link btn-secondary" href="/ko/" type="button">한국어 프로필 페이지로 이동하기</a>
        <h2 style="font-weight: 700; margin-bottom: 0;">ジンク・オクサイド</h2>
