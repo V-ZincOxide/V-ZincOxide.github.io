@@ -21,7 +21,7 @@ layout: page
        </svg>
 </div>
 <div style="text-align: center;">
-       <h1 style="margin-top: 1rem; margin-bottom: 0; font-weight: 900;">산화아연</h1><h6>리듬게임을 사랑해 마지않는 다국어 구사 버튜버</h6>
+       <h1 style="margin-top: 1rem; margin-bottom: 0; font-weight: 900;">산화아연</h1><h6>리듬게임을 사랑하는 다국어 구사 버튜버</h6>
        <h2 style="font-weight: 700; margin-bottom: 0;">ジンク・オクサイド</h2>
        <a class="btn btn-sm btn-link btn-secondary" href="/ja/" type="button">日本語のプロフィールはこちら</a>
        <h2 style="font-weight: 700; margin-bottom: 0;">Zinc Oxide</h2>
