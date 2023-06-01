@@ -35,7 +35,7 @@ layout: page
 <a class="btn btn-link btn-lg btn-block btn-twitter-blue" href="https://twitter.com/V_ZincOxide" type="button">
        <img src="../resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">트위터</a>
 <a class="btn btn-link btn-lg btn-block btn-marshmallow-pink" href="https://marshmallow-qa.com/v_zincoxide" type="button">
-       <img src="../resources/marshmallow-logo.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">마쉬멜로(익명질문함)</a>
+       <img src="../resources/marshmallow-logo.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">마쉬멜로(익명 메시지 보내기)</a>
 
 # 프로필
 ![산화아연의 앞, 옆, 뒤 삼면도](../resources/3view.png)

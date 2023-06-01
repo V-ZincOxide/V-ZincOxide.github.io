@@ -35,7 +35,7 @@ layout: page
 <a class="btn btn-link btn-lg btn-block btn-twitter-blue" href="https://twitter.com/V_ZincOxide" type="button">
        <img src="../resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitter</a>
 <a class="btn btn-link btn-lg btn-block btn-marshmallow-pink" href="https://marshmallow-qa.com/v_zincoxide" type="button">
-       <img src="../resources/marshmallow-logo.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">Anonymous Questions(Marshmallow)</a>
+       <img src="../resources/marshmallow-logo.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">Send anonymous message(via Marshmallow)</a>
 
 # Profile
 ![3 side view of Zinc Oxide](../resources/3view.png)
