@@ -30,8 +30,10 @@ layout: page
 
 <a class="btn btn-link btn-lg btn-block btn-youtube-red" href="https://youtube.com/ZincOxide" type="button">
        <img src="../resources/youtube_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">유튜브 채널</a>
+<!--
 <a class="btn btn-link btn-lg btn-block btn-twitch-purple" href="https://twitch.tv/v_zincoxide" type="button">
        <img src="../resources/TwitchGlitchWhite.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">트위치</a>
+-->
 <a class="btn btn-link btn-lg btn-block btn-twitter-blue" href="https://twitter.com/V_ZincOxide" type="button">
        <img src="../resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">트위터</a>
 <a class="btn btn-link btn-lg btn-block btn-marshmallow-pink" href="https://marshmallow-qa.com/v_zincoxide" type="button">
