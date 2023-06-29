@@ -16,7 +16,7 @@ layout: page
        style="
               width: 240px;
               height: 240px;"
-       src="../resources/profile_wink.png"
+       src="../../resources/profile_wink.png"
        alt="profile picture">
        <svg class="profile-picture-border" height="130px" width="60px" style="top:0px; left:200px;">
               <circle cx="-70" cy="130" r="120" stroke="#B6EF13" fill="none" stroke-width="15px"></circle>
@@ -32,7 +32,7 @@ layout: page
 
 # 기념 방송 링크 配信枠
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/e-fVcGJ4TeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe max-width="960px" width="auto" height="auto" src="https://www.youtube-nocookie.com/embed/e-fVcGJ4TeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # 아연퀴즈 ジンクイズ
 * 당신은 산화아연에 대해 얼마나 알고 있는가! 지금 바로 산화아연 잘알에 도전해보세요. (채점 후 공개되는 정답은 방송 전까지는 비밀로!)
@@ -53,7 +53,7 @@ layout: page
 * 応援もイタズラもシチュボもなんでもいいです。みなさんの優しい心が入ってるから。
 
 <a class="btn btn-link btn-lg btn-block btn-marshmallow-pink" href="https://marshmallow-qa.com/v_zincoxide" type="button">
-       <img src="../resources/marshmallow-logo.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">마쉬멜로(익명 메시지 보내기)</a>
+       <img src="../../resources/marshmallow-logo.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">마쉬멜로(익명 메시지 보내기)</a>
 
 
 # 우리 아빠 うちのパパ
