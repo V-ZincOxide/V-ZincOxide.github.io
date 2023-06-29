@@ -4,7 +4,8 @@ layout: page
 
 <div style="text-align: center;">
        <h1 style="margin-top: 1rem; margin-bottom: 0; font-weight: 900;">2023.07.11.</h1>
-       <h1 style="margin-top: 1rem; margin-bottom: 0; font-weight: 900;">1st Anniversary</h1>
+       <h1 style="margin-top: 1rem; margin-bottom: 0; font-weight: 900;">산화아연 데뷔 1주년!</h1>
+       <h2 style="font-weight: 700; margin-bottom: 0;">ジンクのデビュー１周年！</h2>
 </div>
 
 <div class="profile-picture-parent" style="margin: 5px calc(50% - 130px);">
@@ -26,8 +27,7 @@ layout: page
        </svg>
 </div>
 <div style="text-align: center;">
-       <h1 style="margin-top: 1rem; margin-bottom: 0; font-weight: 900;">산화아연 데뷔 1주년!</h1>
-       <h2 style="font-weight: 700; margin-bottom: 0;">ジンク・オクサイドのデビュー１周年！</h2>
+       
 </div>
 
 # 기념 방송 링크 配信枠
@@ -37,6 +37,7 @@ layout: page
 # 아연퀴즈 ジンクイズ
 * 당신은 산화아연에 대해 얼마나 알고 있는가! 지금 바로 산화아연 잘알에 도전해보세요. (채점 후 공개되는 정답은 방송 전까지는 비밀로!)
 * あなたはジンクについてどこまで知ってます？あなたのジンク解像度を試してみてください！（配信前までは正解のネタバレはご遠慮ください！）
+
 <a class="btn btn-link btn-lg btn-block btn-youtube-red" href="https://forms.gle/PyYLLTCxEH6z1LAq9" type="button">
        아연퀴즈에 도전 ジンクイズに挑戦</a>
 
@@ -53,7 +54,7 @@ layout: page
 * 応援もイタズラもシチュボもなんでもいいです。みなさんの優しい心が入ってるから。
 
 <a class="btn btn-link btn-lg btn-block btn-marshmallow-pink" href="https://marshmallow-qa.com/v_zincoxide" type="button">
-       <img src="../../resources/marshmallow-logo.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">마쉬멜로(익명 메시지 보내기)</a>
+       <img src="../../resources/marshmallow-logo.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">익명 메시지 보내기 マシュマロを送る</a>
 
 
 # 우리 아빠 うちのパパ
@@ -61,19 +62,19 @@ layout: page
        <div class="col-sm">
               <h2 id="illustrator">일러스트イラスト</h2>
               <div style="text-align: center;">
-                     <img src="../resources/GomTang.png" style="height:150px; width:150px">
+                     <img src="../../resources/GomTang.png" style="height:150px; width:150px">
                      <h4 style="margin-top: 0.5rem;">GomTang</h4>
                      <a class="btn btn-link btn-twitter-blue" href="https://twitter.com/GomTang_P" type="button" style="width:120px;">
-                     <img src="../resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitter</a>
+                     <img src="../../resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitter</a>
               </div>
        </div>
        <div class="col-sm">
               <h2 id="rigger">Live2D</h2>
               <div style="text-align: center;">
-                     <img src="../resources/2395.png" style="height:150px; width:150px">
+                     <img src="../../resources/2395.png" style="height:150px; width:150px">
                      <h4 style="margin-top: 0.5rem;">2395(イサングオ)</h4>
                      <a class="btn btn-link btn-twitter-blue" href="https://twitter.com/adpn2395" type="button" style="width:120px;">
-                     <img src="../resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitter</a>
+                     <img src="../../resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitter</a>
               </div>
        </div>
 </div>
