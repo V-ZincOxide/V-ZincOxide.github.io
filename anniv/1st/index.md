@@ -26,8 +26,11 @@ layout: page
               <circle cx="130" cy="0" r="120" stroke="#B6EF13" fill="none" stroke-width="15px"></circle>
        </svg>
 </div>
+
+
 <div style="text-align: center;">
-       
+  <h1>기념 방송 링크 配信枠</h1>
+  <iframe max-width="960px" width="auto" height="auto" src="https://www.youtube-nocookie.com/embed/e-fVcGJ4TeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 # 기념 방송 링크 配信枠
