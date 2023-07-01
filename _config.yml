@@ -13,11 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: VTuber 산화아연
-author: Zinc Oxide
+title: 버추얼 유튜버 산화아연
+author: 산화아연(Zinc Oxide)
 # email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  버추얼 유튜버 산화아연의 자기소개 페이지
+  バーチャルユーチューバー ジンク・オクサイド
+  VTuber Zinc Oxide
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: V_ZincOxide
