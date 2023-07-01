@@ -31,6 +31,8 @@ layout: page
 <div style="text-align: center;">
   <h1>방송 링크 配信枠</h1>
   <iframe max-width="960px" width="auto" height="auto" src="https://www.youtube-nocookie.com/embed/e-fVcGJ4TeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <h1>방송 링크 配信枠</h1>
+  <iframe max-width="960px" width="auto" height="auto" src="https://www.youtube-nocookie.com/embed/e-fVcGJ4TeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -42,7 +44,9 @@ layout: page
 * あなたはジンクについてどこまで知ってます？あなたのジンク解像度を試してみてください！（配信前までは正解のネタバレはご遠慮ください！）
 
 <a class="btn btn-link btn-lg btn-block btn-youtube-red" href="https://forms.gle/PyYLLTCxEH6z1LAq9" type="button">
-       아연퀴즈에 도전 ジンクイズに挑戦</a>
+       아연퀴즈에 도전 ジンクイズに挑戦
+</a>
+<br>
 
 <div style="text-align: center;">
   <h1>디스코드 서버를 열었어요!</h1>
