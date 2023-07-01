@@ -29,9 +29,10 @@ layout: page
 
 
 <div style="text-align: center;">
-  <h1>기념 방송 링크 配信枠</h1>
+  <h1>방송 링크 配信枠</h1>
   <iframe max-width="960px" width="auto" height="auto" src="https://www.youtube-nocookie.com/embed/e-fVcGJ4TeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+<br>
 
 <div style="text-align: center;">
   <h1>아연퀴즈 ジンクイズ</h1>
@@ -52,9 +53,9 @@ layout: page
 * まだ未完成です。誰でも入れますが、臨時開場中にはロール(権限)は配信者の方のみ付与します。当日の凸待ちに参加したい配信者の方は気軽く入ってください！
 
 <a class="btn btn-link btn-lg btn-block btn-twitch-purple" href="https://discord.gg/zNVnVeDhUQ" type="button">
-       디스코드 서버 Discordサーバー</a>
+       디스코드 서버로 가기 Discordサーバーを開く</a>
 
-
+<br>
 <div style="text-align: center;">
   <h1>여러분의 익명 메시지도 읽어요!</h1>
   <h1>マシュマロも読みます！</h1>
