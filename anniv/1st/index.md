@@ -30,7 +30,10 @@ layout: page
 
 <div style="text-align: center;">
   <h1>방송 링크 配信枠</h1>
+  <h4>1주년 기념으로 셀프 공개처형을 하는 버튜버</h4>
+  <h4>１周年記念でセルフ公開処刑をするVtuber</h4>
   <iframe max-width="960px" width="auto" height="auto" src="https://www.youtube-nocookie.com/embed/e-fVcGJ4TeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <br>
   <br>
   <h1>방송 링크 配信枠</h1>
   <iframe max-width="960px" width="auto" height="auto" src="https://www.youtube-nocookie.com/embed/e-fVcGJ4TeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -54,8 +57,8 @@ layout: page
   <h1>Discord鯖が出来ました！</h1>
 </div>
 
-* 임시 개장 중입니다. 임시 개장 중에는 스트리머 분들께만 권한을 드리고 있습니다. 당일 돌발 통화에 오고싶으신 스트리머 분은 미리 들어와주시면 좋아요!
-* まだ未完成です。誰でも入れますが、臨時開場中にはロール(権限)は配信者の方のみ付与します。当日の凸待ちに参加したい配信者の方は気軽く入ってください！
+* 7월 11일까지는 임시 개장 중입니다! () 당일 돌발 통화에 오고싶으신 스트리머 분은 미리 들어와주시면 좋아요!
+* 7月11日までは臨時開場になります。当日の凸待ちに参加したい配信者の方は入ってください！
 
 <a class="btn btn-link btn-lg btn-block btn-twitch-purple" href="https://discord.gg/zNVnVeDhUQ" type="button">
        디스코드 서버로 가기 Discordサーバーを開く</a>
