@@ -33,18 +33,21 @@ layout: page
   <iframe max-width="960px" width="auto" height="auto" src="https://www.youtube-nocookie.com/embed/e-fVcGJ4TeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-# 기념 방송 링크 配信枠
+<div style="text-align: center;">
+  <h1>아연퀴즈 ジンクイズ</h1>
+</div>
 
-<iframe max-width="960px" width="auto" height="auto" src="https://www.youtube-nocookie.com/embed/e-fVcGJ4TeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-# 아연퀴즈 ジンクイズ
 * 당신은 산화아연에 대해 얼마나 알고 있는가! 지금 바로 산화아연 잘알에 도전해보세요. (채점 후 공개되는 정답은 방송 전까지는 비밀로!)
 * あなたはジンクについてどこまで知ってます？あなたのジンク解像度を試してみてください！（配信前までは正解のネタバレはご遠慮ください！）
 
 <a class="btn btn-link btn-lg btn-block btn-youtube-red" href="https://forms.gle/PyYLLTCxEH6z1LAq9" type="button">
        아연퀴즈에 도전 ジンクイズに挑戦</a>
 
-# 디스코드 서버를 열었어요! Discord鯖が出来ました！
+<div style="text-align: center;">
+  <h1>디스코드 서버를 열었어요!</h1>
+  <h1>Discord鯖が出来ました！</h1>
+</div>
+
 * 임시 개장 중입니다. 임시 개장 중에는 스트리머 분들께만 권한을 드리고 있습니다. 당일 돌발 통화에 오고싶으신 스트리머 분은 미리 들어와주시면 좋아요!
 * まだ未完成です。誰でも入れますが、臨時開場中にはロール(権限)は配信者の方のみ付与します。当日の凸待ちに参加したい配信者の方は気軽く入ってください！
 
@@ -52,13 +55,19 @@ layout: page
        디스코드 서버 Discordサーバー</a>
 
 
-# 여러분의 익명 메시지도 읽어요! マシュマロも読みます！
+<div style="text-align: center;">
+  <h1>여러분의 익명 메시지도 읽어요!</h1>
+  <h1>マシュマロも読みます！</h1>
+</div>
+
 * 주접이든 응원이든 놀리기든 상황극이든 다 좋습니다. 여러분의 마음이 담겨있는 메시지니까요.
 * 応援もイタズラもシチュボもなんでもいいです。みなさんの優しい心が入ってるから。
 
 <a class="btn btn-link btn-lg btn-block btn-marshmallow-pink" href="https://marshmallow-qa.com/v_zincoxide" type="button">
        <img src="../../resources/marshmallow-logo.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">익명 메시지 보내기 マシュマロを送る</a>
 
+<br>
+<br>
 
 # 우리 아빠 うちのパパ
 <div class="row">
