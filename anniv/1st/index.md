@@ -30,9 +30,18 @@ layout: page
 
 <div style="text-align: center;">
   <h1>방송 링크 配信枠</h1>
-  <h4>1주년 기념으로 셀프 공개처형을 하는 버튜버</h4>
-  <h4>１周年記念でセルフ公開処刑をするVtuber</h4>
+  <h4>&#126;1주년 기념으로 셀프 공개처형을 하는 버튜버&#126;</h4>
+  <h4>&#126;１周年記念でセルフ公開処刑をするVtuber&#126;</h4>
+
   <iframe max-width="960px" width="auto" height="auto" src="https://www.youtube-nocookie.com/embed/e-fVcGJ4TeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <h4>Opening &#40;21&#58;00&#126;21&#58;30&#41;</h4>
+  <h4>1부 第一部 &#40;21&#58;30&#126;23&#58;00&#41;</h4>
+  <h6>첫방송 되돌아보기</h6>
+  <h6>初配信の振り返り</h6>
+  <br>
+  <h4>2부 第二部 &#40;23&#58;00&#126;&#41;</h4>
+  <h6>음주잡담 &#40;돌발통화 난입 환영&#41;</h6>
+  <h6>飲酒雑談 &#40;凸待ち大歓迎&#41;</h6>
   <br>
   <br>
   <h1>ｵｿｿｵｻ ｸｵﾅｩ 벍됪쁤</h1>
@@ -57,7 +66,7 @@ layout: page
   <h1>Discord鯖が出来ました！</h1>
 </div>
 
-* 7월 11일까지는 임시 개장 중입니다! () 당일 돌발 통화에 오고싶으신 스트리머 분은 미리 들어와주시면 좋아요!
+* 7월 11일까지는 임시 개장 중입니다! 당일 돌발 통화에 오고싶으신 스트리머 분은 미리 들어와주시면 좋아요!
 * 7月11日までは臨時開場になります。当日の凸待ちに参加したい配信者の方は入ってください！
 
 <a class="btn btn-link btn-lg btn-block btn-twitch-purple" href="https://discord.gg/zNVnVeDhUQ" type="button">
