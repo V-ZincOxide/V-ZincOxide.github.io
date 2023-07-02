@@ -35,6 +35,7 @@ layout: page
 
   <iframe max-width="960px" width="auto" height="auto" src="https://www.youtube-nocookie.com/embed/e-fVcGJ4TeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <h4>Opening &#40;21&#58;00&#126;21&#58;30&#41;</h4>
+  <br>
   <h4>1부 第一部 &#40;21&#58;30&#126;23&#58;00&#41;</h4>
   <h6>첫방송 되돌아보기</h6>
   <h6>初配信の振り返り</h6>
@@ -43,9 +44,6 @@ layout: page
   <h6>음주잡담 &#40;돌발통화 난입 환영&#41;</h6>
   <h6>飲酒雑談 &#40;凸待ち大歓迎&#41;</h6>
   <br>
-  <br>
-  <h1>ｵｿｿｵｻ ｸｵﾅｩ 벍됪쁤</h1>
-  <iframe max-width="960px" width="auto" height="auto" src="https://www.youtube-nocookie.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -133,3 +131,8 @@ layout: page
 </div>
 
 <a class="twitter-timeline" data-height="500" data-dnt="true" href="https://twitter.com/V_ZincOxide?ref_src=twsrc%5Etfw">Tweets by V_ZincOxide</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div style="text-align: center;">
+  <h1>ｵｿｿｵｻ ｸｵﾅｩ 벍됪쁤</h1>
+  <iframe max-width="960px" width="auto" height="auto" src="https://www.youtube-nocookie.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
