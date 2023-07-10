@@ -33,8 +33,9 @@ layout: page
   <h4>&#126;1주년 기념으로 셀프 공개처형을 하는 버튜버&#126;</h4>
   <h4>&#126;１周年記念でセルフ公開処刑をするVtuber&#126;</h4>
 
-  <iframe max-width="960px" width="auto" height="auto" src="https://www.youtube-nocookie.com/embed/e-fVcGJ4TeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  <h4>Opening &#40;21&#58;00&#126;21&#58;30&#41;</h4>
+  <iframe max-width="960px" width="100%" height="auto" src="https://www.youtube-nocookie.com/embed/e-fVcGJ4TeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <h4> ??? &#40;21&#58;00&#41;</h4>
+  <h4>Opening &#40;21&#58;10&#126;21&#58;30&#41;</h4>
   <br>
   <h4>1부 第一部 &#40;21&#58;30&#126;23&#58;00&#41;</h4>
   <h6>첫방송 되돌아보기</h6>
@@ -131,8 +132,3 @@ layout: page
 </div>
 
 <a class="twitter-timeline" data-height="500" data-dnt="true" href="https://twitter.com/V_ZincOxide?ref_src=twsrc%5Etfw">Tweets by V_ZincOxide</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<div style="text-align: center;">
-  <h1>ｵｿｿｵｻ ｸｵﾅｩ 벍됪쁤</h1>
-  <iframe max-width="960px" width="auto" height="auto" src="https://www.youtube-nocookie.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
