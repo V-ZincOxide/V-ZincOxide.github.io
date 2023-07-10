@@ -29,6 +29,8 @@ layout: page
 
 
 <div style="text-align: center;">
+  <h1> ??? </h1>
+  <img src="syukufuku.png" style="height:auto; width:100%">
   <h1>방송 링크 配信枠</h1>
   <h4>&#126;1주년 기념으로 셀프 공개처형을 하는 버튜버&#126;</h4>
   <h4>&#126;１周年記念でセルフ公開処刑をするVtuber&#126;</h4>
