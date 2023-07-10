@@ -33,7 +33,7 @@ layout: page
   <h4>&#126;1주년 기념으로 셀프 공개처형을 하는 버튜버&#126;</h4>
   <h4>&#126;１周年記念でセルフ公開処刑をするVtuber&#126;</h4>
 
-  <iframe max-width="960px" width="100%" height="auto" src="https://www.youtube-nocookie.com/embed/e-fVcGJ4TeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="100%" height="auto" src="https://www.youtube-nocookie.com/embed/e-fVcGJ4TeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <h4> ??? &#40;21&#58;00&#41;</h4>
   <h4>Opening &#40;21&#58;10&#126;21&#58;30&#41;</h4>
   <br>
