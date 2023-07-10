@@ -33,10 +33,14 @@ layout: page
   <h4>&#126;1주년 기념으로 셀프 공개처형을 하는 버튜버&#126;</h4>
   <h4>&#126;１周年記念でセルフ公開処刑をするVtuber&#126;</h4>
   <div class="iframe-container" position="relative" overflow="hidden" width="100%" padding-top="56.25%">
-    <iframe position="absolute" top="0" left="0" bottom="0" right="0" width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/e-fVcGJ4TeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe position="absolute" top="0" left="0" bottom="0" right="0" width="100%" height="auto" src="https://www.youtube-nocookie.com/embed/e-fVcGJ4TeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
-  <h4> ??? &#40;21&#58;00&#41;</h4>
-  <img src="syukufuku.png" style="height:auto; width:80%">
+  <br>
+  <h4> &#40;21&#58;00&#41;</h4>
+  <div class="iframe-container" position="relative" overflow="hidden" width="100%" padding-top="56.25%">
+    <iframe position="absolute" top="0" left="0" bottom="0" right="0" width="100%" height="auto" src="https://www.youtube-nocookie.com/embed/byIku6z6sOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
+  <br>
   <h4>Opening &#40;21&#58;10&#126;21&#58;30&#41;</h4>
   <br>
   <h4>1부 第一部 &#40;21&#58;30&#126;23&#58;00&#41;</h4>
