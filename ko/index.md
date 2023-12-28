@@ -21,7 +21,7 @@ layout: page
        </svg>
 </div>
 <div style="text-align: center;">
-       <h1 style="margin-top: 1rem; margin-bottom: 0; font-weight: 900;">산화아연</h1><h6>리듬게임을 사랑하는 다국어 구사 버튜버</h6>
+       <h1 style="margin-top: 1rem; margin-bottom: 0; font-weight: 900;">산화아연</h1><h6>리듬게임을 좋아하는 아마추어 통번역가 버튜버</h6>
        <h2 style="font-weight: 700; margin-bottom: 0;">ジンク・オクサイド</h2>
        <a class="btn btn-sm btn-link btn-secondary" href="/ja/" type="button">日本語のプロフィールはこちら</a>
        <h2 style="font-weight: 700; margin-bottom: 0;">Zinc Oxide</h2>
@@ -30,20 +30,15 @@ layout: page
 
 <a class="btn btn-link btn-lg btn-block btn-youtube-red" href="https://youtube.com/ZincOxide" type="button">
        <img src="../resources/youtube_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">유튜브 채널</a>
-<!--
-<a class="btn btn-link btn-lg btn-block btn-twitch-purple" href="https://twitch.tv/v_zincoxide" type="button">
-       <img src="../resources/TwitchGlitchWhite.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">트위치</a>
--->
-<a class="btn btn-link btn-lg btn-block btn-twitter-blue" href="https://twitter.com/V_ZincOxide" type="button">
-       <img src="../resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">트위터</a>
+<a class="btn btn-link btn-lg btn-block black" href="https://twitter.com/V_ZincOxide" type="button">
+       <img src="../resources/x_logo.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">X(Twitter)</a>
 <a class="btn btn-link btn-lg btn-block btn-marshmallow-pink" href="https://marshmallow-qa.com/v_zincoxide" type="button">
        <img src="../resources/marshmallow-logo.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">마쉬멜로(익명 메시지 보내기)</a>
+<a class="btn btn-link btn-lg btn-block btn-twitter-blue" href="mailto:iam@zincoxide.kr" type="button">
+       <img src="../resources/mail-icon.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">email</a>
 
 # 프로필
 ![산화아연의 앞, 옆, 뒤 삼면도](../resources/3view.png)
-> 초록 피부와 큰 키가 특징인 20대 중후반의 청년.
-> 영문도 모른 채 다른 세계에서 홀로 떨어져 나와 이 세계에 불시착해버렸다.
-> 하지만 현대 문물에 푹 빠진 그는 원래 세계로의 복귀조차 잊고 사무실에서 퇴근만을 기다린다.
 * 키: 231cm
 * 몸무게: 191kg
 * 생일: 9월 8일
@@ -94,11 +89,6 @@ layout: page
                      </a>
               </div>
               <div style="text-align: center;">
-                     <a href="https://www.arknights.kr">
-                     <img src="../resources/games/arknights-kr.png" alt="명일방주" style="margin-bottom: 1rem; max-width:300px">
-                     </a>
-              </div>
-              <div style="text-align: center;">
                      <a href="https://mahjongsoul.yo-star.com/kr/">
                      <img src="../resources/games/jantama.png" alt="작혼" style="margin-bottom: 1rem; max-height:160px">
                      </a>
@@ -125,6 +115,7 @@ layout: page
                      <li>그랑블루 판타지</li>
                      <li>스플래툰3</li>
                      <li>시아트리듬 파이널 바 라인</li>
+                     <li>명일방주</li>
               </ul>
        </div>
        <div class="col-sm">
