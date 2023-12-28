@@ -50,18 +50,16 @@ layout: page
        <div class="col-sm">
               <h2>일반 활동</h2>
               <ul>
-                     <li> [日] <a href="https://www.youtube.com/playlist?list=PLhdOm5RxwrsZQnes7QZBb-eGVuFkqBppA">일본어 방송활동 재생목록</a></li>
-                     <li> [한日En] <a href="https://youtu.be/byIku6z6sOQ?si=HcY49fpXIaOs2M9W">YOASOBI - 축복 한영일 메들리 커버</a></li>
-                     <li> [日] <a href="https://youtu.be/Wqq0X77bP84?si=Bzfw3Ytq4hm4ZiLY">DECO*27 - ヒバナ 커버</a></li>
-                     <li> [日] <a href="https://youtu.be/l2s7I7rI-_4?si=oRZm_eWjtMx9keVw">AiSS vs. 华牧狸 w/ 夜輪 - 今年も「雪降り、メリクリ」目指して頑張ります！！ 커버</a></li>
+                     <li> [日] 일본어 방송활동 재생목록 <a href="https://www.youtube.com/playlist?list=PLhdOm5RxwrsZQnes7QZBb-eGVuFkqBppA">↗️</a></li>
+                     <li> [한日En] YOASOBI - 축복 한영일 메들리 커버 <a href="https://youtu.be/byIku6z6sOQ?si=HcY49fpXIaOs2M9W">↗️</a></li>
               </ul>
        </div>
        <div class="col-sm">
               <h2>통번역</h2>
               <ul>
-                     <li>[日→한] 花鎧照虎 - If you want to live 가사 번역 <a href="https://twitter.com/Kagai_Terutora/status/1633095988230463488">(공지 트윗)</a></li>
-                     <li>[日→한] BPL S2 IIDX 비공식 통역방송 <a href="https://www.youtube.com/playlist?list%253DPLhdOm5RxwrsYrcQxI11Q9bEzZzi8BY7ME">(재생목록)</a></li>
-                     <li>[한↔日] <a href="https://www.youtube.com/playlist?list%253DPLhdOm5RxwrsbeACu-f9dX91us7uSajouf">(재생목록) </a></li>
+                     <li>[日→한] 花鎧照虎 - If you want to live 가사 번역 <a href="https://twitter.com/Kagai_Terutora/status/1633095988230463488">↗️</a></li>
+                     <li>[日→한] BPL S2 IIDX 비공식 통역방송 <a href="https://www.youtube.com/playlist?list%253DPLhdOm5RxwrsYrcQxI11Q9bEzZzi8BY7ME">↗️</a></li>
+                     <li>[한↔日] <a href="https://www.youtube.com/playlist?list%253DPLhdOm5RxwrsbeACu-f9dX91us7uSajouf">↗️</a></li>
                      <li>[한→日] ???  </li>
               </ul>
        </div>
