@@ -29,29 +29,43 @@ layout: page
 </div>
 
 <a class="btn btn-link btn-lg btn-block btn-youtube-red" href="https://youtube.com/ZincOxide" type="button">
-       <img src="../resources/youtube_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">유튜브 채널</a>
+       <img src="../resources/youtube_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">YouTube Channel</a>
 <a class="btn btn-link btn-lg btn-block btn-black" href="https://twitter.com/V_ZincOxide" type="button">
        <img src="../resources/x_logo.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">X(Twitter)</a>
 <a class="btn btn-link btn-lg btn-block btn-marshmallow-pink" href="https://marshmallow-qa.com/v_zincoxide" type="button">
        <img src="../resources/marshmallow-logo.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">마쉬멜로(익명 메시지 보내기)</a>
 <a class="btn btn-link btn-lg btn-block btn-twitter-blue" href="mailto:iam@zincoxide.kr" type="button">
-       <img src="../resources/mail-icon.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">email</a>
+       <img src="../resources/mail-icon.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">이메일</a>
 
 # 프로필
 ![산화아연의 앞, 옆, 뒤 삼면도](../resources/3view.png)
 * 키: 231cm
 * 몸무게: 191kg
 * 생일: 9월 8일
+* 데뷔일: 2022년 7월 11일
 
-# 좋아하는 것
-* 음악듣기, 퍼퓸(Perfume)
-* 서브○이 샌드위치
-* 전자기기 (컴퓨터, 모바일, 가전등  안 가리고)
-* 쇼핑 (굿즈 쇼핑 최고)
-* 어쨌든 실외활동이 아닌 것
-* 고양이!!!!!! (알레르기 있음)
-* 나같이 두껍고 근육 많은 친구들
-* 좋아하는 것에 대해 이야기하기
+
+# 외국어 활동
+<div class="row">
+       <div class="col-sm">
+              <h2>일반 활동</h2>
+              <ul>
+                     <li> [日] <a href="https://www.youtube.com/playlist?list=PLhdOm5RxwrsZQnes7QZBb-eGVuFkqBppA">일본어 방송활동 재생목록</a></li>
+                     <li> [한日En] <a href="https://youtu.be/byIku6z6sOQ?si=HcY49fpXIaOs2M9W">YOASOBI - 축복 한영일 메들리 커버</a></li>
+                     <li> [日] <a href="https://youtu.be/Wqq0X77bP84?si=Bzfw3Ytq4hm4ZiLY">DECO*27 - ヒバナ 커버</a></li>
+                     <li> [日] <a href="https://youtu.be/l2s7I7rI-_4?si=oRZm_eWjtMx9keVw">AiSS vs. 华牧狸 w/ 夜輪 - 今年も「雪降り、メリクリ」目指して頑張ります！！ 커버</a></li>
+              </ul>
+       </div>
+       <div class="col-sm">
+              <h2>통번역</h2>
+              <ul>
+                     <li>[日→한] 花鎧照虎 - If you want to live 가사 번역 <a href="https://twitter.com/Kagai_Terutora/status/1633095988230463488">(공지 트윗)</a></li>
+                     <li>[日→한] BPL S2 IIDX 비공식 통역방송 <a href="https://www.youtube.com/playlist?list%253DPLhdOm5RxwrsYrcQxI11Q9bEzZzi8BY7ME">(재생목록)</a></li>
+                     <li>[한↔日] <a href="https://www.youtube.com/playlist?list%253DPLhdOm5RxwrsbeACu-f9dX91us7uSajouf">(재생목록) </a></li>
+                     <li>[한→日] ???  </li>
+              </ul>
+       </div>
+</div>
 
 # 주력 게임
 <div class="row">
@@ -137,12 +151,7 @@ layout: page
        </div>
 </div>
 
-# 활동 이유
-* 새로운 것에 도전하고 싶다
-* 같은 취미, 취향의 사람들과 즐겁게 이야기하고 싶다
-* 국경을 초월한 친구를 사귀고 싶다
-
-# 우리 아빠
+# 버추얼 부모님
 <div class="row">
        <div class="col-sm">
               <h2 id="illustrator">일러스트</h2>
@@ -186,5 +195,3 @@ layout: page
               </div>
        </div>
 </div>
-
-<a class="twitter-timeline" data-height="500" data-dnt="true" href="https://twitter.com/V_ZincOxide?ref_src=twsrc%5Etfw">Tweets by V_ZincOxide</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
