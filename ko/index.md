@@ -58,8 +58,8 @@ layout: page
               <h2>통번역</h2>
               <ul>
                      <li>[日→한] 花鎧照虎 - If you want to live 가사 번역 <a href="https://twitter.com/Kagai_Terutora/status/1633095988230463488">↗️</a></li>
-                     <li>[日→한] BPL S2 IIDX 비공식 통역방송 <a href="https://www.youtube.com/playlist?list%253DPLhdOm5RxwrsYrcQxI11Q9bEzZzi8BY7ME">↗️</a></li>
-                     <li>[한↔日] <a href="https://www.youtube.com/playlist?list%253DPLhdOm5RxwrsbeACu-f9dX91us7uSajouf">↗️</a></li>
+                     <li>[日→한] BPL S2 IIDX 비공식 통역방송 <a href="https://youtube.com/playlist?list=PLhdOm5RxwrsYrcQxI11Q9bEzZzi8BY7ME&si=m0Q-DGr9Be4JLDXD">↗️</a></li>
+                     <li>[한↔日] 2언어 라디오 "1인2역" <a href="https://youtube.com/playlist?list=PLhdOm5RxwrsbeACu-f9dX91us7uSajouf&si=DDL8Ggyf1R5wuIpi">↗️</a></li>
                      <li>[한→日] ???  </li>
               </ul>
        </div>
