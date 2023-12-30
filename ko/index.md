@@ -102,7 +102,7 @@ layout: page
               </div>
               <div style="text-align: center;">
                      <a href="https://mahjongsoul.yo-star.com/kr/">
-                     <img src="../resources/games/jantama.png" alt="작혼" style="margin-bottom: 1rem; max-height:160px">
+                     <img src="../resources/games/jantama_kr_logo.png" alt="작혼" style="margin-bottom: 1rem; max-height:160px">
                      </a>
               </div>
        </div>
