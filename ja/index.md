@@ -21,7 +21,7 @@ layout: page
        </svg>
 </div>
 <div style="text-align: center;">
-       <h1 style="margin-top: 1rem; font-weight: 900; margin-bottom: 0;">ジンク・オクサイド</h1><h6>音ゲー大好きマルチリンガルVTuber</h6>
+       <h1 style="margin-top: 1rem; font-weight: 900; margin-bottom: 0;">ジンク・オクサイド</h1><h6>音ゲー大好き通・翻訳者見習いVTuber</h6>
        <h2 style="margin-bottom: 0; font-weight: 700;">산화아연</h2>
        <a class="btn btn-sm btn-link btn-secondary" href="/ko/" type="button">한국어 프로필 페이지로 이동하기</a>
        <h2 style="font-weight: 700; margin-bottom: 0;">Zinc Oxide</h2>
@@ -30,35 +30,42 @@ layout: page
 
 <a class="btn btn-link btn-lg btn-block btn-youtube-red" href="https://youtube.com/ZincOxide" type="button">
        <img src="../resources/youtube_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">YouTube チャンネル</a>
-<!--
-<a class="btn btn-link btn-lg btn-block btn-twitch-purple" href="https://twitch.tv/v_zincoxide" type="button">
-       <img src="../resources/TwitchGlitchWhite.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitch</a>
--->
-<a class="btn btn-link btn-lg btn-block btn-twitter-blue" href="https://twitter.com/V_ZincOxide" type="button">
-       <img src="../resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitter</a>
+<a class="btn btn-link btn-lg btn-block btn-black" href="https://twitter.com/V_ZincOxide" type="button">
+       <img src="../resources/x_logo.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">X(ツイッター)</a>
 <a class="btn btn-link btn-lg btn-block btn-marshmallow-pink" href="https://marshmallow-qa.com/v_zincoxide" type="button">
        <img src="../resources/marshmallow-logo.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">マシュマロ(匿名メッセージ)</a>
+<a class="btn btn-link btn-lg btn-block btn-twitter-blue" href="mailto:iam@zincoxide.kr" type="button">
+       <img src="../resources/mail-icon.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">eメール</a>
+
 
 # プロフィール
 ![ジンクオクサイドの三面図](../resources/3view.png)
-> 緑の肌と高い身長が特徴的な２０代後半の青年。
-> 別の世界から訳もわからずにこの世界に一人で不時着してしまった。
-> 現代文物に完全に夢中になった彼は、元の世界への復帰すら忘れたまま、オフィスで退勤だけを待つ。
 * 名前: ジンク・オクサイド（ジンクで🆗）
 * 身長: 231cm
 * 体重: 191kg
 * 誕生日: 9月8日
+* デビュー: 2022年7月11日
 
+# 外国語活動
+<div class="row">
+       <div class="col-sm">
+              <h2>一般</h2>
+              <ul>
+                     <li> [日] 日本語配信プレイリスト <a href="https://www.youtube.com/playlist?list=PLhdOm5RxwrsZQnes7QZBb-eGVuFkqBppA">↗️</a></li>
+                     <li> [한日En] YOASOBI - 祝福 3言語歌ってみた <a href="https://youtu.be/byIku6z6sOQ?si=HcY49fpXIaOs2M9W">↗️</a></li>
+              </ul>
+       </div>
+       <div class="col-sm">
+              <h2>通訳・翻訳</h2>
+              <ul>
+                     <li>[日→한] 花鎧照虎 - If you want to live 歌詞翻訳 <a href="https://twitter.com/Kagai_Terutora/status/1633095988230463488">↗️</a></li>
+                     <li>[日→한] BPL S2 IIDX 非公式通訳配信 <a href="https://youtube.com/playlist?list=PLhdOm5RxwrsYrcQxI11Q9bEzZzi8BY7ME&si=m0Q-DGr9Be4JLDXD">↗️</a></li>
+                     <li>[한↔日] 2言語ラジオ配信 「一人二役」 <a href="https://youtube.com/playlist?list=PLhdOm5RxwrsbeACu-f9dX91us7uSajouf&si=DDL8Ggyf1R5wuIpi">↗️</a></li>
+                     <li>[한→日] ???  </li>
+              </ul>
+       </div>
+</div>
 
-# 好きなもの
-* 音楽鑑賞, パフューム
-* サブ○ェイサンドイッチ
-* 電子機器（パソコン、スマホ、家電などなど）
-* ショッピング（おかげでグッズいっぱい買っちゃいました）
-* とにかく屋内にいること
-* 猫！！！！（だけど猫の毛にアレルギーがある）
-* 僕みたいな筋肉が分厚く背高いキャラ
-* 好きなものについて語り合うこと
 
 # 大好きなゲーム
 <div class="row">
@@ -96,11 +103,6 @@ layout: page
                      </a>
               </div>
               <div style="text-align: center;">
-                     <a href="https://www.arknights.jp">
-                     <img src="../resources/games/arknights-jp.png" alt="アークナイツ" style="margin-bottom: 1rem; max-width:300px">
-                     </a>
-              </div>
-              <div style="text-align: center;">
                      <a href="https://mahjongsoul.com">
                      <img src="../resources/games/jantama.png" alt="じゃんたま" style="margin-bottom: 1rem; max-height:160px">
                      </a>
@@ -127,6 +129,7 @@ layout: page
                      <li>グランブル・ファンタジー</li>
                      <li>スプラトゥーン3</li>
                      <li>シアトリズム　ファイナルバーライン</li>
+                     <li>アークナイツ</li>
               </ul>
        </div>
        <div class="col-sm">
