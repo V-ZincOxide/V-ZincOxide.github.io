@@ -29,9 +29,9 @@ layout: page
 </div>
 
 <a class="btn btn-link btn-lg btn-block btn-youtube-red" href="https://youtube.com/ZincOxide" type="button">
-       <img src="../resources/youtube_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">YouTube Channel</a>
+       <img src="../resources/youtube_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">유튜브 채널</a>
 <a class="btn btn-link btn-lg btn-block btn-black" href="https://twitter.com/V_ZincOxide" type="button">
-       <img src="../resources/x_logo.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">X(Twitter)</a>
+       <img src="../resources/x_logo.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">X(트위터)</a>
 <a class="btn btn-link btn-lg btn-block btn-marshmallow-pink" href="https://marshmallow-qa.com/v_zincoxide" type="button">
        <img src="../resources/marshmallow-logo.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">마쉬멜로(익명 메시지 보내기)</a>
 <a class="btn btn-link btn-lg btn-block btn-twitter-blue" href="mailto:iam@zincoxide.kr" type="button">
@@ -155,7 +155,7 @@ layout: page
               <h2 id="illustrator">일러스트</h2>
               <div style="text-align: center;">
                      <img src="../resources/GomTang.png" style="height:150px; width:150px">
-                     <h4 style="margin-top: 0.5rem;">GomTang</h4>
+                     <h4 style="margin-top: 0.5rem;">곰탕(GomTang)</h4>
                      <a class="btn btn-link btn-twitter-blue" href="https://twitter.com/GomTang_P" type="button" style="width:120px;">
                      <img src="../resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitter</a>
               </div>
@@ -164,7 +164,7 @@ layout: page
               <h2 id="rigger">Live2D</h2>
               <div style="text-align: center;">
                      <img src="../resources/2395.png" style="height:150px; width:150px">
-                     <h4 style="margin-top: 0.5rem;">2395</h4>
+                     <h4 style="margin-top: 0.5rem;">이삼구오(2395)</h4>
                      <a class="btn btn-link btn-twitter-blue" href="https://twitter.com/adpn2395" type="button" style="width:120px;">
                      <img src="../resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitter</a>
               </div>
