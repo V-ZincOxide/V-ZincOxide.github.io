@@ -21,7 +21,7 @@ layout: page
        </svg>
 </div>
 <div style="text-align: center;">
-       <h1 style="margin-top: 1rem; margin-bottom: 0; font-weight: 900;">Zinc Oxide</h1><h6>Rhythm Game Enthusiast Multilingual VTuber</h6>
+       <h1 style="margin-top: 1rem; margin-bottom: 0; font-weight: 900;">Zinc Oxide</h1><h6>Rhythm Game Enthusiast Amateur Translator</h6>
        <h2 style="margin-bottom: 0; font-weight: 700;">산화아연</h2>
        <a class="btn btn-sm btn-link btn-secondary" href="/ko/" type="button">한국어 프로필 페이지로 이동하기</a>
        <h2 style="font-weight: 700; margin-bottom: 0;">ジンク・オクサイド</h2>
@@ -29,35 +29,40 @@ layout: page
 </div>
 
 <a class="btn btn-link btn-lg btn-block btn-youtube-red" href="https://youtube.com/ZincOxide" type="button">
-       <img src="../resources/youtube_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">YouTube</a>
-<!--
-<a class="btn btn-link btn-lg btn-block btn-twitch-purple" href="https://twitch.tv/v_zincoxide" type="button">
-       <img src="../resources/TwitchGlitchWhite.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitch</a>
--->
-<a class="btn btn-link btn-lg btn-block btn-twitter-blue" href="https://twitter.com/V_ZincOxide" type="button">
-       <img src="../resources/twitter_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">Twitter</a>
+       <img src="../resources/youtube_logo_white.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">YouTube Channel</a>
+<a class="btn btn-link btn-lg btn-block btn-black" href="https://twitter.com/V_ZincOxide" type="button">
+       <img src="../resources/x_logo.svg" style="height:100%; max-height:1.4em; margin-right:0.5em;">X(Twitter)</a>
 <a class="btn btn-link btn-lg btn-block btn-marshmallow-pink" href="https://marshmallow-qa.com/v_zincoxide" type="button">
-       <img src="../resources/marshmallow-logo.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">Send anonymous message(via Marshmallow)</a>
+       <img src="../resources/marshmallow-logo.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">Anonymous Messages(via Marshmallow)</a>
+<a class="btn btn-link btn-lg btn-block btn-twitter-blue" href="mailto:iam@zincoxide.kr" type="button">
+       <img src="../resources/mail-icon.png" style="height:100%; max-height:1.4em; margin-right:0.5em;">email</a>
 
 # Profile
 ![3 side view of Zinc Oxide](../resources/3view.png)
-> A tall man with greenish skin, who’s in his late twenties.
-> He had no idea what happened to him when he landed in this world alone.
-> But he definitely knows that he loves this world and wants to leave the office as soon as possible.
-> …Looks like even he himself has forgotten to return to his original world.
 * Height: 231cm(7'7")
 * Weight: 191kg(421lbs)
 * Birthday: Sep 8th
+* Debut: July 11th, 2022
 
-# Likes
-* Listening to music, Perfume
-* Sub*ay Sandwiches
-* Electronics(Computers, Mobile, Home appliances etc.)전자기기
-* Shopping (Like character goods)
-* Staying indoors
-* Cats!!!!!! (but have allergy)
-* those who is tall and has muscular body!(like me)
-* Talking about things I like
+# Foreign Language Activity
+<div class="row">
+       <div class="col-sm">
+              <h2>General</h2>
+              <ul>
+                     <li> [日] Streams I've done in Japanese language <a href="https://www.youtube.com/playlist?list=PLhdOm5RxwrsZQnes7QZBb-eGVuFkqBppA">↗️</a></li>
+                     <li> [한日En] YOASOBI - blessing Trilingual cover <a href="https://youtu.be/byIku6z6sOQ?si=HcY49fpXIaOs2M9W">↗️</a></li>
+              </ul>
+       </div>
+       <div class="col-sm">
+              <h2>Translation</h2>
+              <ul>
+                     <li>[日→한] Lyrics translation of If you want to live by Kagai Terutora <a href="https://twitter.com/Kagai_Terutora/status/1633095988230463488">↗️</a></li>
+                     <li>[日→한] BPL S2 IIDX unofficial interpreting stream <a href="https://youtube.com/playlist?list=PLhdOm5RxwrsYrcQxI11Q9bEzZzi8BY7ME&si=m0Q-DGr9Be4JLDXD">↗️</a></li>
+                     <li>[한↔日] Bilingual radio stream "1인2역" <a href="https://youtube.com/playlist?list=PLhdOm5RxwrsbeACu-f9dX91us7uSajouf&si=DDL8Ggyf1R5wuIpi">↗️</a></li>
+                     <li>[한→日] ???  </li>
+              </ul>
+       </div>
+</div>
 
 # Games I like
 <div class="row">
@@ -95,11 +100,6 @@ layout: page
                      </a>
               </div>
               <div style="text-align: center;">
-                     <a href="https://www.arknights.global">
-                     <img src="../resources/games/arknights-en.png" alt="Arknights" style="margin-bottom: 1rem; max-width:300px">
-                     </a>
-              </div>
-              <div style="text-align: center;">
                      <a href="https://mahjongsoul.yo-star.com">
                      <img src="../resources/games/Mahjong_soul.png" alt="Mahjong Soul" style="margin-bottom: 1rem; max-width:300px">
                      </a>
@@ -126,6 +126,7 @@ layout: page
                      <li>Granblue Fantasy</li>
                      <li>Splatoon3</li>
                      <li>THEATRHYTHM FINAL BAR LINE</li>
+                     <li>Arknights</li>
               </ul>
        </div>
        <div class="col-sm">
@@ -147,12 +148,7 @@ layout: page
        </div>
 </div>
 
-# Reason why I debuted
-* To challenge to new things and activities
-* To talk with others about favorite things in common
-* To make friends beyond borders
-
-# Daddy
+# Virtual Parents
 <div class="row">
        <div class="col-sm">
               <h2 id="illustrator">Illustrator</h2>
