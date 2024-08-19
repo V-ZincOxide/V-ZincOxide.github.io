@@ -1,0 +1,1110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-i18n="page-title">VTuber Zinc Oxide</title>
+
+  <!--
+    - favicon
+  -->
+  <link rel="shortcut icon" href="./assets/images/zincoxide_logo_final_ai_rgb_2d_360.png" type="image/x-icon">
+
+  <!--
+    - custom css link
+  -->
+  <link rel="stylesheet" href="./assets/css/style.css">
+
+  <!--
+    - google font link
+  -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" />
+</head>
+
+<body>
+
+  <!--
+    - #MAIN
+  -->
+
+  <main>
+
+    <!--
+      - #SIDEBAR
+    -->
+
+    <aside class="sidebar" data-sidebar>
+
+      <div class="sidebar-info">
+
+        <figure class="avatar-box">
+          <img class="avatar-box" src="./assets/images/profile_wink.png" alt="Zinc Oxide" width="120">
+        </figure>
+
+        <div class="info-content">
+          <h1 class="name" title="Zinc Oxide" data-i18n="name" >Zinc Oxide</h1>
+          
+          <p class="title" data-i18n="title1">VTuber</p>
+          <p class="title" data-i18n="title2">Rhythm Gamer</p>
+          <p class="title" data-i18n="title3">Warrior of Light</p>
+          <p class="title" data-i18n="title4">Interpreter/Translator</p>
+        </div>
+
+        <button class="info_more-btn" data-sidebar-btn>
+          <span data-i18n="show-contacts">Show Contacts</span>
+
+          <ion-icon name="chevron-down"></ion-icon>
+        </button>
+
+      </div>
+
+      <div class="sidebar-info_more">
+
+        <div class="separator"></div>
+
+        <ul class="contacts-list">
+
+          <li class="contact-item">
+
+            <div class="icon-box">
+              <ion-icon name="mail-outline"></ion-icon>
+            </div>
+
+            <div class="contact-info">
+              <p class="contact-title" data-i18n="contact-email-title">Email</p>
+
+              <a href="mailto:iam@zincoxide.kr" class="contact-link">iam@zincoxide.kr</a>
+            </div>
+
+          </li>
+
+
+
+          <li class="contact-item">
+
+            <div class="icon-box">
+              <ion-icon name="location-outline"></ion-icon>
+            </div>
+
+            <div class="contact-info">
+              <p class="contact-title" data-i18n="contact-location-title">Location</p>
+
+              <address data-i18n="contact-location">Virtual Seoul, South Korea</address>
+            </div>
+
+          </li>
+
+        </ul>
+
+        <div class="separator"></div>
+
+        <ul class="social-list">
+
+          <li>
+          <a href="https://youtube.com/ZincOxide" >
+            <img class="social-icon" src="./assets/images/icon-youtube.png" loading="lazy" alt="YouTube icon">
+          </a>
+        </li>
+
+        <li>
+          <a href="https://chzzk.naver.com/4ac69fd7deb1ce523d984c50395e468b" >
+            <img class="social-icon" src="./assets/images/icon-chzzk.png" loading="lazy" alt="Chzzk icon">
+          </a>
+        </li>
+
+        <li>
+          <a href="https://twitter.com/V_ZincOxide" >
+            <img class="social-icon" src="./assets/images/icon-x.png"loading="lazy"  alt="X icon">
+          </a>
+        </li>
+
+        <li>
+          <a href="#" >
+            <img class="social-icon" src="./assets/images/icon-bluesky.jpg" loading="lazy" alt="Bluesky icon">
+          </a>
+        </li>
+
+        <li>
+          <a href="https://marshmallow-qa.com/v_zincoxide" >
+            <img class="social-icon" src="./assets/images/icon-marshmallow.png" loading="lazy" alt="Marshmallow icon">
+          </a>
+        </li>
+
+
+        </ul>
+
+      </div>
+
+    </aside>
+
+
+
+
+
+    <!--
+      - #main-content
+    -->
+
+    <div class="main-content">
+
+      <!--
+        - #NAVBAR
+      -->
+
+      <nav class="navbar">
+
+        <ul class="navbar-list">
+
+          <li class="navbar-item">
+            <button class="navbar-link  active" data-nav-link="home" data-i18n="navbar-home">Home</button>
+          </li>
+
+          <li class="navbar-item">
+            <button class="navbar-link" data-nav-link="profile" data-i18n="navbar-profile">Profile</button>
+          </li>
+
+          <!-- <li class="navbar-item">
+            <button class="navbar-link" data-nav-link="portfolio" data-i18n="navbar-works">Portfolio</button>
+          </li> -->
+
+          <li class="navbar-item" style="color:azure;">
+            <a>|</a>
+          </li>
+
+          <ul style="gap: 0px; display: flex;">
+            <li class="navbar-item">
+              <button class="navbar-link" onclick="changeLanguage('ko-KR')">한국어</button>
+            </li>
+
+            <li class="navbar-item">
+              <button class="navbar-link" onclick="changeLanguage('ja-JP')">日本語</button>
+            </li>
+
+            <li class="navbar-item">
+              <button class="navbar-link" onclick="changeLanguage('en-US')">English(US)</button>
+            </li>
+        </ul>
+
+        </ul>
+
+      </nav>
+
+
+
+
+
+      <!--
+        - #HOME
+      -->
+
+      <article class="home  active" data-page="home">
+
+        <header>
+          <h2 class="h2 article-title" data-i18n="home-title">Hello!</h2>
+        </header>
+
+        <section class="home-text">
+          <p data-i18n="home-text-1">
+            I'm Zinc, a Virtual Streamer who loves rhythm games and learning foreign language.
+            Usually I play games on my livestream.
+
+          </p>
+
+          <!-- <p data-i18n="home-text-2">
+            I believe that culture has no border.  
+          </p> -->
+        </section>
+
+
+        <!--
+          - service
+        -->
+
+        <section class="service">
+
+          <h3 class="h3 service-title" data-i18n="whatido-title">What I do</h3>
+
+          <ul class="service-list">
+
+            <li class="service-item">
+
+              <div class="service-icon-box">
+                <ion-icon name="game-controller-outline" size="large"></ion-icon>
+              </div>
+
+              <div class="service-content-box">
+                <h4 class="h4 service-item-title" data-i18n="whatido-1-title">Gaming</h4>
+
+                <p class="service-item-text" data-i18n="whatido-1-text">
+                  Usually plays newly updated contents from game I do.
+                </p>
+              </div>
+
+            </li>
+
+            <li class="service-item">
+
+              <div class="service-icon-box">
+                <ion-icon name="chatbubbles-outline" size="large"></ion-icon>
+              </div>
+
+              <div class="service-content-box">
+                <h4 class="h4 service-item-title" data-i18n="whatido-2-title">Chat stream</h4>
+                <p class="service-item-text" data-i18n="whatido-2-text">
+                  Sometimes I do light chats on my livestream. 
+                </p>
+              </div>
+
+            </li>
+
+            <li class="service-item">
+
+              <div class="service-icon-box">
+                <ion-icon name="language-outline" size="large"></ion-icon>
+              </div>
+
+              <div class="service-content-box">
+                <h4 class="h4 service-item-title" data-i18n="whatido-3-title">Translation and Interpretion</h4>
+
+                <p class="service-item-text" data-i18n="whatido-3-text">
+                  I'm not a verified professional, but I do translate some articles, and interprete in on/offline events.
+                </p>
+              </div>
+
+            </li>
+
+            <li class="service-item">
+
+              <div class="service-icon-box">
+                <ion-icon name="help-circle-outline" size="large"></ion-icon>
+              </div>
+
+              <div class="service-content-box">
+                <h4 class="h4 service-item-title" data-i18n="whatido-4-title">?</h4>
+
+                <p class="service-item-text" data-i18n="whatido-4-text">
+                  Coming soon...
+                </p>
+              </div>
+
+            </li>
+
+          </ul>
+
+        </section>
+
+
+        <header>
+          <h2 class="h2 article-title" data-i18n="links-title">Links</h2>
+        </header>
+
+        <section class="blog-posts">
+
+          <ul class="blog-posts-list">
+
+            <li class="blog-post-item">
+              <a href="https://youtube.com/ZincOxide">
+
+                <figure class="blog-banner-box">
+                  <img src="./assets/images/snippet-1-youtube.png" alt="YouTube Channel" loading="lazy">
+                </figure>
+
+                <div class="blog-content">
+
+                  <div class="blog-meta">
+                    <p class="blog-category" data-i18n="links-1-category">Channel</p>
+                  </div>
+
+                  <h3 class="h3 blog-item-title" data-i18n="links-1-title">Youtube Channel</h3>
+
+                  <p class="blog-text" data-i18n="links-1-text">
+                    All the videos I've uploatded and archives of past streams can be found here.
+                  </p>
+
+                </div>
+
+              </a>
+            </li>
+
+            <li class="blog-post-item">
+              <a href="https://chzzk.naver.com/4ac69fd7deb1ce523d984c50395e468b">
+
+                <figure class="blog-banner-box">
+                  <img src="./assets/images/snippet-2-chzzk.png" alt="Design digest #80" loading="lazy">
+                </figure>
+
+                <div class="blog-content">
+
+                  <div class="blog-meta">
+                    <p class="blog-category" data-i18n="links-2-category">Channel</p>
+
+                  </div>
+
+                  <h3 class="h3 blog-item-title" data-i18n="links-2-title">Chzzk Channel</h3>
+
+                  <p class="blog-text" data-i18n="links-2-text">
+                    Chzzk is a streaming service for users in South Korea.
+                  </p>
+
+                </div>
+
+              </a>
+            </li>
+
+            <li class="blog-post-item">
+              <a href="https://www.youtube.com/playlist?list=PLhdOm5RxwrsZQnes7QZBb-eGVuFkqBppA">
+
+                <figure class="blog-banner-box">
+                  <img src="./assets/images/snippet-3-collab.png" alt="Collaboration streams with Japanese VTubers" loading="lazy">
+                </figure>
+
+                <div class="blog-content">
+
+                  <div class="blog-meta">
+                    <p class="blog-category" data-i18n="links-3-category">YouTube Playlist</p>
+
+                  </div>
+
+                  <h3 class="h3 blog-item-title" data-i18n="links-3-title">Collab streams with Japanese VTubers</h3>
+
+                  <p class="blog-text" data-i18n="links-3-text">
+                    This playlist has all the archive of streams that I've done with Japanese VTubers.
+                  </p>
+
+                </div>
+
+              </a>
+            </li>
+
+            
+
+            <li class="blog-post-item">
+              <a href="https://www.youtube.com/playlist?list=PLhdOm5RxwrsampB7mEAGcbOag-iVQb_JS">
+
+                <figure class="blog-banner-box">
+                  <img src="./assets/images/snippet-4-songs.png" alt="Playlist of covered songs" loading="lazy">
+                </figure>
+
+                <div class="blog-content">
+
+                  <div class="blog-meta">
+                    <p class="blog-category" data-i18n="links-4-category">YouTube Playlist</p>
+                  </div>
+
+                  <h3 class="h3 blog-item-title" data-i18n="links-4-title">Songs covered</h3>
+
+                  <p class="blog-text" data-i18n="links-4-text">
+                    All the songs I've covered can be found here.
+                  </p>
+
+                </div>
+
+              </a>
+            </li>
+
+            <li class="blog-post-item">
+              <a href="https://www.postype.com/@zincoxide">
+
+                <figure class="blog-banner-box">
+                  <img src="./assets/images/snippet-5-blog-ko.png" alt="Playlist of covered songs" loading="lazy">
+                </figure>
+
+                <div class="blog-content">
+
+                  <div class="blog-meta">
+                    <p class="blog-category" data-i18n="links-5-category">Blog</p>
+                  </div>
+
+                  <h3 class="h3 blog-item-title" data-i18n="links-5-title">Korean Blog</h3>
+
+                  <p class="blog-text" data-i18n="links-5-text">
+                    Things I write in Korean can be found here.
+                  </p>
+
+                </div>
+
+              </a>
+            </li>
+
+            <!-- <li class="blog-post-item">
+              <a href="https://note.com/zincoxide">
+
+                <figure class="blog-banner-box">
+                  <img src="./assets/images/snippet-6-blog-ja.png" alt="Playlist of covered songs" loading="lazy">
+                </figure>
+
+                <div class="blog-content">
+
+                  <div class="blog-meta">
+                    <p class="blog-category" data-i18n="links-6-category">Blog</p>
+                  </div>
+
+                  <h3 class="h3 blog-item-title" data-i18n="links-6-title">Japanese Blog</h3>
+
+                  <p class="blog-text" data-i18n="links-6-text">
+                    Things I write in Japanese can be found here.
+                  </p>
+
+                </div>
+
+              </a>
+            </li> -->
+
+          </ul>
+
+        </section>
+
+
+      </article>
+
+
+
+
+
+      <!--
+        - #PROFILE
+      -->
+
+      <article class="profile" data-page="profile">
+
+        <header>
+          <h2 class="h2 article-title" data-i18n="profile-title">Profile</h2>
+        </header>
+        
+       
+
+
+        <section class="timeline">
+
+          <div class="title-wrapper">
+            <div class="icon-box">
+              <ion-icon name="information-circle-outline" size="large"></ion-icon>
+            </div>
+
+            <h3 class="h3" data-i18n="general-title">General Information</h3>
+          </div>
+
+          <img src="./assets/images/3view-notitle-transparent.png" alt="3view" style="max-width:100%; margin-bottom: 30px;" loading="lazy">
+
+          <ol class="timeline-list">
+            <ul class="personalinfo-list">
+
+              <li class="contact-item">
+                <div class="contact-info">
+                  <p class="contact-title" data-i18n="general-1-title">Height</p>
+                  <a class="contact-link" data-i18n="general-1-text">231cm (7' 7")</a>
+                </div>
+              </li>
+
+              <li class="contact-item">
+                <div class="contact-info">
+                  <p class="contact-title" data-i18n="general-2-title">Weight</p>
+                  <a class="contact-link" data-i18n="general-2-text">191kg (421lbs)</a>
+                </div>
+              </li>
+
+              <li class="contact-item">
+                <div class="contact-info">
+                  <p class="contact-title" data-i18n="general-3-title">Birthday</p>
+                  <a class="contact-link" data-i18n="general-3-text">Sep 8th</a>
+                </div>
+              </li>
+              <li class="contact-item">
+                <div class="contact-info">
+                  <p class="contact-title" data-i18n="general-4-title">Age</p>
+                  <a class="contact-link" data-i18n="general-4-text">20s</a>
+                </div>
+              </li>
+    
+              <li class="contact-item">
+                <div class="contact-info">
+                  <p class="contact-title" data-i18n="general-5-title">First Language</p>
+                  <a class="contact-link" data-i18n="general-5-text">Korean</a>
+                </div>
+              </li>
+
+              <li class="contact-item">
+                <div class="contact-info">
+                  <p class="contact-title" data-i18n="general-6-title">Pronoun</p>
+                  <a class="contact-link" data-i18n="general-6-text">he / him</a>
+                </div>
+              </li>
+    
+            </ul>
+            <div class="contact-info" style="margin-top: 20px">
+              <p class="contact-title" data-i18n="general-7-title">Likes</p>
+              <a class="contact-link" data-i18n="general-7-text">Rhythm games, FFXIV, Teaching</a>
+            </div>
+
+            <div class="contact-info" style="margin-top: 20px">
+              <p class="contact-title" data-i18n="general-8-title">Dislikes (Or Not Good at)</p>
+              <a class="contact-link" data-i18n="general-8-text">Horror games, NSFWs, </a>
+            </div>
+
+            <div class="contact-info" style="margin-top: 20px">
+              <p class="contact-title" data-i18n="general-9-title">Languages I speak</p>
+              <a class="contact-link" data-i18n="general-9-text">Korean, English, Japanese,</a>
+            </div>
+          </ol>
+
+        </section>
+
+        <section class="timeline">
+
+          <div class="title-wrapper">
+            <div class="icon-box">
+              <ion-icon name="time-outline" size="large"></ion-icon>
+            </div>
+
+            <h3 class="h3" data-i18n="timeline-title">Timeline</h3>
+          </div>
+
+          <ol class="timeline-list">
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title" data-i18n="timeline-4-title">First interpreter work: CONNECT3</h4>
+
+              <span data-i18n="timeline-4-date">Aug 24-25, 2024</span>
+
+              <p class="timeline-text" data-i18n="timeline-4-text">
+                This is my first official interpreting work.
+              </p>
+
+            </li>
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title" data-i18n="timeline-3-title">Debut Stream</h4>
+
+              <span data-i18n="timeline-3-date">July 11th, 2022</span>
+
+              <p class="timeline-text" data-i18n="timeline-3-text">
+                My first stream as a streamer has been done.
+              </p>
+
+            </li>
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title" data-i18n="timeline-2-title">Started FFXIV</h4>
+
+              <span data-i18n="timeline-2-date">jan 2016</span>
+
+              <p class="timeline-text" data-i18n="timeline-2-text">
+                Started FFXIV in Korean Server, which was on patch 2.4, Dreams of Ice.
+              </p>
+
+            </li>
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title" data-i18n="timeline-1-title">Started Rhythm Game</h4>
+
+              <span data-i18n="timeline-1-date">Early 2000s</span>
+
+              <p class="timeline-text" data-i18n="timeline-1-text">
+                I started playing rhythm games somewhere around here.
+              </p>
+
+            </li>
+
+          </ol>
+
+        </section>
+
+        <section class="timeline">
+
+          <div class="title-wrapper">
+            <div class="icon-box">
+              <ion-icon name="paw-outline" size="large"></ion-icon>
+            </div>
+
+            <h3 class="h3" data-i18n="manager-title">Manager: Mono</h3>
+          </div>
+
+          <img src="./assets/images/Mono-profile.png" alt="3view" style="max-width:100%; margin-bottom: 30px;" loading="lazy">
+
+          <ol class="timeline-list">
+            <ul class="personalinfo-list">
+
+              <li class="contact-item">
+                <div class="contact-info">
+                  <p class="contact-title" data-i18n="manager-1-title">First Apperance</p>
+                  <a class="contact-link" data-i18n="manager-1-text">Jul 24, 2024</a>
+                </div>
+              </li>
+              <li class="contact-item">
+                <div class="contact-info">
+                  <p class="contact-title" data-i18n="manager-2-title">Race</p>
+                  <a class="contact-link" data-i18n="manager-2-text">Dog (Alaskan Malamute)</a>
+                </div>
+              </li>
+            </ul>
+
+            <div class="contact-info" style="margin-top: 20px">
+              <p class="contact-title" data-i18n="manager-3-title">More info</p>
+              <a class="contact-link" data-i18n="manager-3-text">Coming soon...</a>
+            </div>
+
+          </ol>
+
+        </section>
+
+        <section class="timeline">
+
+          <div class="title-wrapper" style="margin-top: 30px">
+            <div class="icon-box">
+              <ion-icon name="game-controller-outline" size="large"></ion-icon>
+            </div>
+
+            <h3 class="h3" data-i18n="game-title">Favorite games</h3>
+          </div>
+        </section>
+
+        <section class="clients">
+
+          <ul class="clients-list has-scrollbar">
+
+            <li class="clients-item">
+              <a href="#">
+                <img src="./assets/images/game-ffxiv-kr.png" alt="Final Fantasy XIV logo">
+              </a>
+            </li>
+
+            <li class="clients-item">
+              <a href="#">
+                <img src="./assets/images/game-iidx-infinitas.png" alt="beatmaniaIIDX infinitas logo">
+              </a>
+            </li>
+
+            <li class="clients-item">
+              <a href="#">
+                <img src="./assets/images/game-ez2on-rebootr.jpg" alt="EZ2ON REBOOT R logo">
+              </a>
+            </li>
+
+            <li class="clients-item">
+              <a href="#">
+                <img src="./assets/images/game-jantama-kr.png" alt="Mahjong Soul logo">
+              </a>
+            </li>
+
+            <li class="clients-item">
+              <a href="#">
+                <img src="./assets/images/game-proseka-kr.png" alt="Project Sekai logo">
+              </a>
+            </li>
+
+            <li class="clients-item">
+              <a href="#">
+                <img src="./assets/images/game-arknights-kr.png" alt="Arknights logo">
+              </a>
+            </li>
+
+          </ul>
+
+        </section>
+
+
+        <!--
+          - testimonials
+        -->
+        <section class="timeline">
+
+          <div class="title-wrapper" style="margin-top: 30px">
+            <div class="icon-box">
+              <ion-icon name="color-palette-outline" size="large"></ion-icon>
+            </div>
+
+            <h3 class="h3" data-i18n="creators-title">Creators</h3>
+          </div>
+        </section>
+
+        <section class="testimonials">
+
+          <ul class="testimonials-list has-scrollbar">
+
+            <li class="testimonials-item">
+              <div class="content-card" data-testimonials-item>
+
+                <figure class="testimonials-avatar-box">
+                  <img src="./assets/images/avatar-gomtang.jpg" alt="GomTang" data-testimonials-avatar>
+                </figure>
+
+                <h4 class="h4 testimonials-item-title" data-testimonials-title data-i18n="creators-1-name">GomTang</h4>
+                <h5 class="h5 testimonials-item-subtitle" data-testimonials-subtitle data-i18n="creators-1-job">Illustrator</h5>
+
+                <div class="testimonials-text" data-testimonials-text>
+                  <p data-i18n="creators-1-text">
+                    GomTang is an illustrator who is specialized in big muscular characters.
+                  </p>
+                  <ul class="contacts-list" style="margin-top: 10px">
+
+                    <li class="contact-item">
+          
+                      <div class="icon-box">
+                        <ion-icon name="logo-twitter"></ion-icon>
+                      </div>
+          
+                      <div class="contact-info">
+                        <p class="contact-title">Twitter</p>
+          
+                        <a href="https://twitter.com/GomTang_P" class="contact-link">@GomTang_P</a>
+                      </div>
+          
+                    </li>
+          
+                  </ul>
+                </div>
+
+              </div>
+            </li>
+
+            <li class="testimonials-item">
+              <div class="content-card" data-testimonials-item>
+
+                <figure class="testimonials-avatar-box">
+                  <img src="./assets/images/avatar-2395.jpg" alt="2395" data-testimonials-avatar>
+                </figure>
+
+                <h4 class="h4 testimonials-item-title" data-testimonials-title data-i18n="creators-2-name">2395</h4>
+                <h5 class="h5 testimonials-item-subtitle" data-testimonials-subtitle data-i18n="creators-2-job">Live2D Rigger</h5>
+
+                <div class="testimonials-text" data-testimonials-text>
+                  <p data-i18n="creators-2-text">
+                    2395(yi-sam-gu-eo) is a Live2D Rigger.
+                  </p>
+                  <ul class="contacts-list" style="margin-top: 10px">
+
+                    <li class="contact-item">
+          
+                      <div class="icon-box">
+                        <ion-icon name="logo-twitter"></ion-icon>
+                      </div>
+          
+                      <div class="contact-info">
+                        <p class="contact-title">Twitter</p>
+          
+                        <a href="https://twitter.com/adpn2395" class="contact-link">@adpn2395</a>
+                      </div>
+          
+                    </li>
+          
+                  </ul>
+                </div>
+
+              </div>
+            </li>
+
+            <li class="testimonials-item">
+              <div class="content-card" data-testimonials-item>
+
+                <figure class="testimonials-avatar-box">
+                  <img src="./assets/images/avatar-axi.jpg" alt="Axi" data-testimonials-avatar>
+                </figure>
+
+                <h4 class="h4 testimonials-item-title" data-testimonials-title data-i18n="creators-3-name">Axi</h4>
+                <h5 class="h5 testimonials-item-subtitle" data-testimonials-subtitle data-i18n="creators-3-job">3D Model Creator</h5>
+
+                <div class="testimonials-text" data-testimonials-text>
+                  <p data-i18n="creators-3-text">
+                    Axi is a 3D Model creater who has created models for other virtual streamers as well.
+                  </p>
+                  <ul class="contacts-list" style="margin-top: 10px">
+
+                    <li class="contact-item">
+          
+                      <div class="icon-box">
+                        <ion-icon name="logo-twitter"></ion-icon>
+                      </div>
+          
+                      <div class="contact-info">
+                        <p class="contact-title">Twitter</p>
+          
+                        <a href="https://twitter.com/3D_Axi" class="contact-link">@3D_Axi</a>
+                      </div>
+          
+                    </li>
+          
+                  </ul>
+                        
+                </div>
+
+              </div>
+            </li>
+
+            <li class="testimonials-item">
+              <div class="content-card" data-testimonials-item>
+
+                <figure class="testimonials-avatar-box">
+                  <img src="./assets/images/avatar-isuzu.jpg" alt="Kyo Isuzu" data-testimonials-avatar>
+                </figure>
+
+                <h4 class="h4 testimonials-item-title" data-testimonials-title data-i18n="creators-4-name">Kyo Isuzu</h4>
+                <h5 class="h5 testimonials-item-subtitle" data-testimonials-subtitle data-i18n="creators-4-job">VTuber/Illustrator</h5>
+
+                <div class="testimonials-text" data-testimonials-text>
+                  <pdata-i18n="creators-4-text">
+                    Kyo Isuzu(五十鈴 響)is a japanese Vtuber and also an illustrator who have drawn other furry Vtuber's models.
+                  </p>
+                  <ul class="contacts-list" style="margin-top: 10px">
+
+                    <li class="contact-item">
+          
+                      <div class="icon-box">
+                        <ion-icon name="logo-twitter"></ion-icon>
+                      </div>
+          
+                      <div class="contact-info">
+                        <p class="contact-title">Twitter</p>
+          
+                        <a href="https://twitter.com/isuzu_kyo" class="contact-link">@isuzu_kyo</a>
+                      </div>
+          
+                    </li>
+          
+                  </ul>
+                </div>
+
+              </div>
+            </li>
+
+            <li class="testimonials-item">
+              <div class="content-card" data-testimonials-item>
+
+                <figure class="testimonials-avatar-box">
+                  <img src="./assets/images/groups_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg" alt="Backers" data-testimonials-avatar>
+                </figure>
+
+                <h4 class="h4 testimonials-item-title" data-testimonials-title data-i18n="creators-5-name">Backers</h4>
+                <h5 class="h5 testimonials-item-subtitle" data-testimonials-subtitle data-i18n="creators-5-job"></h5>
+
+                <div class="testimonials-text" data-testimonials-text>
+                  <p>
+                    Scorge
+                    Starflo
+                    코카스
+                    타르토
+                    dlunch
+                    김토끼
+                    HippoFatale
+                    Skyrhim
+                    나토나토
+                    Firefox
+                  </p>
+                </div>
+
+              </div>
+            </li>
+
+          </ul>
+
+        </section>
+
+
+        <!--
+          - testimonials modal
+        -->
+
+        <div class="modal-container" data-modal-container>
+
+          <div class="overlay" data-overlay></div>
+
+          <section class="testimonials-modal">
+
+            <button class="modal-close-btn" data-modal-close-btn>
+              <ion-icon name="close-outline"></ion-icon>
+            </button>
+
+            <div class="modal-img-wrapper">
+              <figure class="modal-avatar-box">
+                <img src="./assets/images/groups_24dp_FFFFFF_FILL0_wght400_GRAD0_opsz24.svg" alt="Daniel lewis" data-modal-img>
+              </figure>
+            </div>
+
+            <div class="modal-content">
+
+              <h4 class="h3 modal-title" data-modal-title>Ipsum</h4>
+              <h5 class="h5 modal-subtitle" data-modal-subtitle>Lorem</h5>
+
+              <div data-modal-text>
+                <p>
+                  Ipsum Lorem
+                </p>
+              </div>
+
+            </div>
+
+          </section>
+
+        </div>
+
+        
+
+      </article>
+
+
+
+
+
+      <!--
+        - #PORTFOLIO
+      -->
+
+      <article class="portfolio" data-page="portfolio">
+
+        <header>
+          <h2 class="h2 article-title" data-i18n="portfolio-title">Portfolio</h2>
+        </header>
+
+        <section class="timeline">
+
+          <div class="title-wrapper">
+            <div class="icon-box">
+              <ion-icon name="videocam-outline" size="large"></ion-icon>
+            </div>
+
+            <h3 class="h3"data-i18n="portfolio-1-title">Video, Streaming projects</h3>
+          </div>
+
+          <ol class="timeline-list">
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title" data-i18n="portfolio-1-1-title">Title 1-1</h4>
+
+              <span data-i18n="portfolio-1-1-date">Date 1-1</span>
+
+              <p class="timeline-text" data-i18n="portfolio-1-1-text">
+                Text 1-1
+              </p>
+
+            </li>
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title" data-i18n="portfolio-" data-i18n="portfolio-1-2-title">Title 1-2</h4>
+
+              <span data-i18n="portfolio-1-2-date">Date 1-2</span>
+
+              <p class="timeline-text" data-i18n="portfolio-1-2-text">
+                Text 1-2
+              </p>
+
+            </li>
+
+          </ol>
+
+        </section>
+
+        <section class="timeline">
+
+          <div class="title-wrapper">
+            <div class="icon-box">
+              <ion-icon name="language-outline" size="large"></ion-icon>
+            </div>
+
+            <h3 class="h3" data-i18n="portfolio-2-title">Interprete, translate projects</h3>
+          </div>
+
+          <ol class="timeline-list">
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title" data-i18n="portfolio-2-1-title">Title 2-1</h4>
+
+              <span data-i18n="portfolio-2-1-date">Date 2-1</span>
+
+              <p class="timeline-text" data-i18n="portfolio-2-1-text">
+                Text2-1
+              </p>
+
+            </li>
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title" data-i18n="portfolio-2-2-title">Title 2-2</h4>
+
+              <span data-i18n="portfolio-2-2-date">Date 2-2</span>
+
+              <p class="timeline-text" data-i18n="portfolio-2-2-text">
+                Text 2-2
+              </p>
+
+            </li>
+
+          </ol>
+
+        </section>
+
+        <section class="timeline">
+
+          <div class="title-wrapper">
+            <div class="icon-box">
+              <ion-icon name="code-slash-outline" size="large"></ion-icon>
+            </div>
+
+            <h3 class="h3" data-i18n="portfolio-3-title">Programming Projects</h3>
+          </div>
+
+          <ol class="timeline-list">
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title" data-i18n="portfolio-3-1-title">Title 3-1</h4>
+
+              <span data-i18n="portfolio-3-1-date">Date 3-1</span>
+
+              <p class="timeline-text" data-i18n="portfolio-3-1-text">
+                Text 3-1
+              </p>
+
+            </li>
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title" data-i18n="portfolio-3-2-title">Title 3-2</h4>
+
+              <span data-i18n="portfolio-3-2-date">Date 3-2</span>
+
+              <p class="timeline-text" data-i18n="portfolio-3-2-text">
+                Textj 3-2
+              </p>
+
+            </li>
+
+          </ol>
+
+        </section>
+
+      </article>
+
+    </div>
+
+  </main>
+
+
+
+
+
+
+  <!--
+    - custom js link
+  -->
+  <script src="./assets/js/script.js"></script>
+
+  <!--
+    - ionicon link
+  -->
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+</body>
+
+</html>
